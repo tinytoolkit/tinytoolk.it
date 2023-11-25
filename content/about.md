@@ -7,6 +7,10 @@ Scunthorpe[^1] one evening in late 2023. The former is a long term compiler of t
 toolkits for personal and professional use, and the latter has been eyeing them
 enviously.
 
+## Show us your toolkits!
+Do you have a tiny toolkit you'd like to talk to us about? Do you have a favourite tiny
+tool? Send us an email on `hi@tinytoolk.it`.
+
 [jarkman]: http://www.jarkman.co.uk/
 [samw]: https://wlcx.cc
 

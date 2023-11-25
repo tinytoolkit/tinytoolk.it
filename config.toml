@@ -9,15 +9,23 @@ build_search_index = true
 
 theme = "anemone"
 
+taxonomies = [
+  { name = "tags" },
+]
+
+external_links_target_blank = true
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 
+
 [extra]
 default_theme = "dark"
 header_nav = [
-  { url = "/", name_en = "toolkits"},
+  { url = "/", name_en = "home"},
+  { url = "/toolkits", name_en = "toolkits"},
   { url = "/tools", name_en = "tools"},
   { url = "/about", name_en = "about"},
 ]
