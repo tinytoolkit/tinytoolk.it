@@ -6,3 +6,7 @@ tags = ["things-that-turn"]
 link = "https://www.facom.eu/uk-en/generaltooling/productdetails/hierarchy/7180/group/R.180PB/"
 +++
 
+{{ figure(width=640, path="tools/r180_in_holder.jpeg") }}
+{{ figure(width=640, path="tools/r180_separate.jpeg") }}
+{{ figure(width=640, path="tools/r180_angled.jpeg") }}
+{{ figure(width=640, path="tools/r180_tee.jpeg") }}
