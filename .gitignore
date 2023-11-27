@@ -1,3 +1,4 @@
 .direnv
 public/
 .DS_Store
+static/processed_images
