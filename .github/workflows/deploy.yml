@@ -7,6 +7,8 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v4
+        with:
+          lfs: true
       - name: build_and_deploy
         uses: shalzz/zola-deploy-action@v0.17.2
         env:
