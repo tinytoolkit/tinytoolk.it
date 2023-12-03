@@ -13,4 +13,9 @@ https://www.ebay.co.uk/itm/203056174064
 - [Pinecil](@/tools/pinecil.md)
     - In a [custom 3d printed case](https://drewbatchelor.com/portfolio/pinecil-case/) by
     Drew Batchelor
-- Some other things...
+- [Pinecil cable](@/tools/pinecil_cable.md)
+- [UGREEN CD216 charger](@/tools/pinecil_charger_ugreen_cd216.md)
+- [Solder and tip cleaner tins](@/tools/soldering_tins.md)
+- [Soldering stand](@/tools/soldering_stand.md)
+- [Third hand](@/tools/third_hand.md)
+- [Solder sucker](@/tools/engineer_solder_sucker_ss02.md)
