@@ -2,8 +2,8 @@
 title = "Jarkman's Soldering Toolkit"
 +++
 
-{{ figure(width=640, path="toolkits/jarkmans_soldering_toolkit_closed.jpeg") }}
-{{ figure(width=640, path="toolkits/jarkmans_soldering_toolkit_unpacked.jpeg") }}
+{{ figure(width=640, path="toolkits/jarkmans_soldering_toolkit_closed.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_soldering_toolkit_unpacked.jpg") }}
 
 ## Case
 A transparent pencilcase thingy. Most easily found on eBay, look for 'PVC mesh pencil case'. An example:
