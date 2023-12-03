@@ -18,4 +18,4 @@ https://www.ebay.co.uk/itm/203056174064
 - [Solder and tip cleaner tins](@/tools/soldering_tins.md)
 - [Soldering stand](@/tools/soldering_stand.md)
 - [Third hand](@/tools/third_hand.md)
-- [Solder sucker](@/tools/engineer_solder_sucker_ss02.md)
+- [Solder sucker](@/tools/solder_sucker.md)
