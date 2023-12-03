@@ -10,7 +10,7 @@ A transparent pencilcase thingy. Most easily found on eBay, look for 'PVC mesh p
 https://www.ebay.co.uk/itm/203056174064
 
 ## Contents
-- [Pinecil](@/tools/pinecil.md)
+- [Pinecil](@/tools/pinecil_soldering_iron.md)
     - In a [custom 3d printed case](https://drewbatchelor.com/portfolio/pinecil-case/) by
     Drew Batchelor
 - [Pinecil cable](@/tools/pinecil_cable.md)
