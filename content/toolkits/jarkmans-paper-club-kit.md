@@ -14,10 +14,10 @@ Sewn - cotton canvas, a scrap of leather for a cover, #10 zip
 - [Folding scissors](@/tools/raymay_pencut.md)
 - [0.5mm mechanical-pencil compass](@/tools/sharpest_compass.md)
 
-Retractaway scalpel and spare blade
-Cheap circle-cutter
-Bone folder (actually melamine, I think)
-Latching forceps
-Assored pens & pencils
-Tiny aluminium set square
+- Retractaway scalpel and spare blade
+- Cheap circle-cutter
+- Bone folder (EK tools) (actually melamine, I think)
+- Locking forceps
+- Assored pens & pencils
+- Tiny aluminium set square
 
