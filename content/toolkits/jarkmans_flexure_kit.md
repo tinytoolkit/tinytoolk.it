@@ -14,9 +14,9 @@ A plastic business-card case. Maybe from eBay ?
 
 ## Contents
 - Washi tape - thin, strong, flexible, restickable paper tape
-- Blank white cards. I use a lot of these.
+- Blank white business cards. I use a lot of these, they come from eBay in boxes of 1000
 - [Fisher 150mm satin chrome rule, cut down](@tools/fisher_150mm_satin_chrome_rule.md)
-- Lasercut tiny setsquares
+- Lasercut tiny setsquares - these worked OK but I'd like to do better
 - [Extending ballpoint](@/tools/zebra_expandz.md)
 - [Folding scalpel](@/tools/folding_scalpel.md)
 - [Fiskars folding scissors](@/tools/fiskars_folding_scissors.md)
