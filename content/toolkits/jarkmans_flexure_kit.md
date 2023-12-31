@@ -2,9 +2,12 @@
 title = "Jarkman's Flexure Kit"
 +++
 
+I made this for a Makevember, when I tried to make one example flexure from 'Handbook of Compliant Mechanisms' (https://books.google.co.uk/books/about/Handbook_of_Compliant_Mechanisms.html?id=XsCzpm1bZXEC&redir_esc=y) every day, out of card and tape.
+
 {{ figure(width=640, path="toolkits/jarkmans_flexure_kit_closed.jpg") }}
 {{ figure(width=640, path="toolkits/jarkmans_flexure_kit_open.jpg") }}
 {{ figure(width=640, path="toolkits/jarkmans_flexure_kit_unpacked.jpg") }}
+
 
 ## Case
 A plastic business-card case. Maybe from eBay ? 
