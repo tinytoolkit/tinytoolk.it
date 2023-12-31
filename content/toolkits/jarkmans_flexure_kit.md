@@ -17,7 +17,7 @@ A plastic business-card case. Maybe from eBay ?
 - Blank white cards. I use a lot of these.
 - [Fisher 150mm satin chrome rule, cut down](@tools/fisher_150mm_satin_chrome_rule.md)
 - Lasercut tiny setsquares
-- [Extending ballpoint](@/tools/zebra-expandz.md)
+- [Extending ballpoint](@/tools/zebra_expandz.md)
 - [Folding scalpel](@/tools/folding_scalpel.md)
 - [Fiskars folding scissors](@/tools/fiskars_folding_scissors.md)
 - [Zebra TS3 mechanical pencil](@/tools/zebra_ts3_pencil.md)
