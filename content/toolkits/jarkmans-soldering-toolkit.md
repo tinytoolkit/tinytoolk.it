@@ -15,7 +15,7 @@ https://www.ebay.co.uk/itm/203056174064
     Drew Batchelor
 - [Pinecil cable](@/tools/pinecil_cable.md)
 - [UGREEN CD216 charger](@/tools/pinecil_charger_ugreen_cd216.md)
-- [Solder and tip cleaner tins](@/tools/soldering_tins.md)
+- [Solder and tip cleaner tins](@/tools/soldering-tins/index.md)
 - [Soldering stand](@/tools/soldering_stand.md)
 - [Third hand](@/tools/third_hand.md)
 - [Solder sucker](@/tools/solder_sucker.md)
