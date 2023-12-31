@@ -10,7 +10,7 @@ This has been in my pocket every day for a couple of decades now. If I lost it I
 
 Surprisingly decent (and replaceable and interchangeable) screwdriver bits, surprisingly competent pliers, excellent screwdriver for prising and levering.
 
-{{ figure(width=640, path="tools/cybertool_m_closed.jpg") }}
-{{ figure(width=640, path="tools/cybertool_m_driver.jpg") }}
-{{ figure(width=640, path="tools/cybertool_m_pliers.jpg") }}
-{{ figure(width=640, path="tools/cybertool_m_all.jpg") }}
+{{ figure(width=640, path="tools/cybertool-m/cybertool_m_closed.jpg") }}
+{{ figure(width=640, path="tools/cybertool-m/cybertool_m_driver.jpg") }}
+{{ figure(width=640, path="tools/cybertool-m/cybertool_m_pliers.jpg") }}
+{{ figure(width=640, path="tools/cybertool-m/cybertool_m_all.jpg") }}
