@@ -5,7 +5,7 @@ by = ["jarkman"]
 tags = ["things-that-hold"]
 +++
 
-https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/
+(The mighty Pinecil)[https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/]
 
 A great cheap tiny soldering iron.
 
