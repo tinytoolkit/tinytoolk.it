@@ -2,6 +2,7 @@
 title = "Soldering Stand"
 [taxonomies]
 tags = ["things-that-hold"]
+by = ["jarkman"]
 +++
 
 Miniware soldering stand, tiny but adequate, made from zirconia!

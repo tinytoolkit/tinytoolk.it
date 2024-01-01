@@ -2,6 +2,7 @@
 title = "Raymay Pencut folding scissors"
 [taxonomies]
 tags = ["things-that-cut"]
+by = ["jarkman"]
 [extra]
 link = "https://www.japantrendshop.com/raymay-pencut-scissors-p-2111.html"
 +++

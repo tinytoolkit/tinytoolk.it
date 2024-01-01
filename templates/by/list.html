@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Authors</h1>
+<ul>
+{% for term in terms %}
+<li><a href="{{ term.permalink | safe }}">{{ term.name }}</a>[{{ term.pages | length }}]</li>
+{% endfor %}
+</ul>
+{% endblock content %}

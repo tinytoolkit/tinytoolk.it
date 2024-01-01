@@ -2,6 +2,7 @@
 title = "Zebra TS3 mechanical pencil"
 [taxonomies]
 tags = ["things-that-mark"]
+by = ["jarkman"]
 +++
 
 A tiny but decent little mechanical pencil. I've taken the clip off this one.

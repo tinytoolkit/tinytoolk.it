@@ -2,6 +2,7 @@
 title = "Kutsuwa 300mm folding rule"
 [taxonomies]
 tags = ["things-that-measure"]
+by = ["jarkman"]
 [extra]
 link = "https://www.thejournalshop.com/products/kutsuwa-hiline-folding-aluminium-ruler-xs31"
 +++

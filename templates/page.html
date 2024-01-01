@@ -1,7 +1,15 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1>{{ page.title }}</h1>
+<header>
+  <h1>{{ page.title }}</h1>
+  {% if page.taxonomies.by %}
+    By: {% for by in page.taxonomies.by %}
+      <a href="/by/{{ by | slugify }}" rel="author">{{by}}</a>
+    {% endfor %}
+  {% endif %}
+</header>
+<hr>
 
 {% if page.toc and page.extra.toc %}
 <h2>Table of contents</h2>

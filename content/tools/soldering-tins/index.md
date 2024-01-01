@@ -2,6 +2,7 @@
 title = "Soldering Tins"
 [taxonomies]
 tags = ["things-that-hold"]
+by = ["jarkman"]
 +++
 
 Aluminium screwtop tins from eBay, https://www.ebay.co.uk/itm/324342678225

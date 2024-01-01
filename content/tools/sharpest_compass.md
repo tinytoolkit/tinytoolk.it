@@ -2,6 +2,7 @@
 title = "Sharpest compass"
 [taxonomies]
 tags = ["things-that-measure"]
+by = ["jarkman"]
 [extra]
 link = "https://www.thejournalshop.com/products/kutsuwa-hiline-folding-aluminium-ruler-xs31"
 +++

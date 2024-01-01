@@ -2,6 +2,7 @@
 title = "Zebra SL-F1 Mini Ballpoint Pen"
 [taxonomies]
 tags = ["things-that-mark"]
+by = ["samw", "jarkman"]
 [extra]
 cost = "~£5-£10"
 +++

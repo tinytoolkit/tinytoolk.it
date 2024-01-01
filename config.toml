@@ -11,6 +11,7 @@ theme = "anemone"
 
 taxonomies = [
   { name = "tags" },
+  { name = "by" },
 ]
 
 external_links_target_blank = true

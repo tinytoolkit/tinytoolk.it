@@ -2,6 +2,7 @@
 title = "Victorinox Cybertool M"
 [taxonomies]
 tags = ["things-that-cut"]
+by = ["jarkman"]
 [extra]
 link = "https://www.knivesandtools.co.uk/en/pt/-victorinox-cybertool-with-34-functions-transparent-red.htm"
 +++
