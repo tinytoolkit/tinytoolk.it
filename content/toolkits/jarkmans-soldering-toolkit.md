@@ -5,6 +5,8 @@ title = "Jarkman's Soldering Toolkit"
 {{ figure(width=640, path="toolkits/jarkmans_soldering_toolkit_closed.jpg") }}
 {{ figure(width=640, path="toolkits/jarkmans_soldering_toolkit_unpacked.jpg") }}
 
+The basics for in-the-field soldering, in as small a kit as I can manage.
+
 ## Case
 A transparent pencilcase thingy. Most easily found on eBay, look for 'PVC mesh pencil case'. An example:
 https://www.ebay.co.uk/itm/203056174064
