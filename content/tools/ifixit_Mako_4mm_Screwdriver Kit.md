@@ -8,7 +8,7 @@ The iFixit Mako is an excellent quality set of precision screwdrivers with 64 4m
 
 For a portable tiny tool kit I needed something ultra compact. So I kept the Mako driver, and just the 35 bits I use all the time.
 {{ figure(width=640, path="tools/4mmBitHolderSingleRow.jpg") }}
-The bits are stored in 2 [custom 3d printed TPU holders by Drew Batchelor](https://www.printables.com/model/700125-4mm-screwdriver-bit-holders)
+The bits are stored in 2 [custom 3d printed TPU holders by Drew Batchelo](https://www.printables.com/model/700125-4mm-screwdriver-bit-holders)
 
 The remaining 29 bits, which only get used rarely, have been stored in a compact 2 row holder ([also custom 3D printed](https://www.printables.com/model/700886-compact-bit-holder-for-30-4mm-screwdriver-bits)), which generally stays at home, unless I am exprecting some product dissassembly. 
 {{ figure(width=640, path="tools/4mmBitHolderDoubleRow.jpg") }}
