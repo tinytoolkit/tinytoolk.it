@@ -10,11 +10,10 @@ A transparent pencilcase thingy. Most easily found on eBay, look for 'PVC mesh p
 https://www.ebay.co.uk/itm/203056174064
 
 ## Contents
-- [Pinecil](@/tools/pinecil_soldering_iron.md)
+- [Pinecil](@/tools/pinecil-soldering-iron/index.md)
     - In a [custom 3d printed case](https://drewbatchelor.com/portfolio/pinecil-case/) by
     Drew Batchelor
-- [Pinecil cable](@/tools/pinecil_cable.md)
-- [UGREEN CD216 charger](@/tools/pinecil_charger_ugreen_cd216.md)
+    - With a silicon USB C cable and charger
 - [Solder and tip cleaner tins](@/tools/soldering-tins/index.md)
 - [Soldering stand](@/tools/soldering_stand.md)
 - [Third hand](@/tools/third_hand.md)
