@@ -7,7 +7,7 @@ tags = ["things-that-hold"]
 
 [The mighty Pinecil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
 
-A great cheap tiny soldering iron. It'll run off USB-C (if it can give it 20V) or from DC into a barrel jack. I usuually run it fromt he mains adapter below, but I also have a USB power bank that can run it.
+A great cheap tiny soldering iron. It'll run off USB-C (if it can give it 20V) or from DC into a barrel jack. I usuually run it from the mains adapter below, but I also have a USB power bank that can run it.
 
 {{ figure(width=640, path="tools/pinecil-soldering-iron/pinecil_and_case.jpg") }}
 
