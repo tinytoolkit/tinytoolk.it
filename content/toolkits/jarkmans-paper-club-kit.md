@@ -16,8 +16,8 @@ Sewn - cotton canvas, a scrap of leather for a cover, #10 zip
 - [Folding scissors](@/tools/tiny-scissors/index.md)
 - [0.5mm mechanical-pencil compass](@/tools/sharpest_compass.md)
 
-- Retractaway scalpel and spare blade
-- Cheap circle-cutter. If you want one of these, the Olfa ones are better.
+- [Retractaway scalpel and spare blade](@/tools/tiny-knives/index.md)
+- Cheap circle-cutter. If you want one of these, the [Olfa ones](https://olfacutters.co.uk/index.php?route=product/search&search=compass%20cutter) are better.
 - Bone folder (EK tools) (actually melamine, I think)
 - Locking forceps
 - Assorted pens & pencils
