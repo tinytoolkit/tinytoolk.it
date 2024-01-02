@@ -13,8 +13,8 @@ https://www.ebay.co.uk/itm/203056174064
 
 ## Contents
 - [Pinecil](@/tools/pinecil-soldering-iron/index.md)
-    - In a [custom 3d printed case](https://drewbatchelor.com/portfolio/pinecil-case/) by
-    Drew Batchelor
+    - In a [custom 3d printed case](https://www.printables.com/model/188072-pinecil-soldering-iron-tiny-case) by
+    [Drew Batchelor](https://drewbatchelor.com/portfolio/pinecil-case/)
     - With a silicon USB C cable and charger
 - [Solder and tip cleaner tins](@/tools/soldering-tins/index.md)
 - [Soldering stand](@/tools/soldering_stand.md)
