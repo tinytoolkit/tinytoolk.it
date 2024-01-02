@@ -18,7 +18,7 @@ Has a #11 blade, which is a good pointy one for paper and card.
 
 # Swann-Morton Retractaway scalpel
 
-[Scalpels and blades](https://www.scalpelsandblades.co.uk/handle-detail_166_retractaway-premium-knife-swann-morton-product-no-2806-9206-.php)
+[Scalpels and blades](https://www.scalpelsandblades.co.uk/handle-detail_166_retractaway-premium-knife-swann-morton-product-no-2806-9206-.php) sell all sorts of scalpel blades and other small knives, as well as all the Swann-Morton handles.
 
 Solid, metal body and bayonet, very nice to use. This one has a 10A blade in, good for heavier-duty work than the #11
 
@@ -31,6 +31,8 @@ Solid, metal body and bayonet, very nice to use. This one has a 10A blade in, go
 [Part number 0-10-095](https://www.toolstop.co.uk/stanley-0-10-095-9mm-snap-off-blade-knife-p28972)
 
 Snap-blade knives mean you can always get a new point when you need one. They can give you a very long blade, too, for things like foam.
+
+This knife clamps the blade sideways when you do up the yellow knob at the back, so it's more rigid than the usual clicky-ratchet kind of mechanism that a lot of snap-blade knives have.
 
 Olfa make [a variety of spare blades for these](https://olfacutters.co.uk/Olfa-spare-blades-Spare-Blades-for-olfa-cutters-knives-RB10-RB18-RB28-RB45-CMP-HOK-MC45-PRB-LB10-COB-SKB-WAB-FWB10-SKB5-SKB7/olfa-9mm-blades)
 
