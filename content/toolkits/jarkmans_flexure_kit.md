@@ -20,7 +20,7 @@ A plastic business-card case. Maybe from eBay ?
 - [Fisher 150mm satin chrome rule, cut down](@/tools/fisher_150mm_satin_chrome_rule.md)
 - Lasercut tiny setsquares - these worked OK but I'd like to do better
 - [Extending ballpoint](@/tools/tiny-pens-pencils/index.md)
-- [Folding scalpel](@/tools/folding_scalpel.md)
-- [Fiskars folding scissors](@/tools/fiskars_folding_scissors.md)
+- [Folding scalpel](@/tools/tiny-knives/index.md)
+- [Fiskars folding scissors](@/tools/tiny-scissors/index.md)
 - [Zebra TS3 mechanical pencil](@/tools/tiny-pens-pencils/index.md)
 - Spare #11 scalpel blade

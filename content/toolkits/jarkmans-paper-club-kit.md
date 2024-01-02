@@ -13,7 +13,7 @@ Sewn - cotton canvas, a scrap of leather for a cover, #10 zip
 
 ## Contents
 - [Folding rule](@/tools/kutsuwa_folding_rule.md)
-- [Folding scissors](@/tools/raymay_pencut.md)
+- [Folding scissors](@/tools/tiny-scissors/index.md)
 - [0.5mm mechanical-pencil compass](@/tools/sharpest_compass.md)
 
 - Retractaway scalpel and spare blade
