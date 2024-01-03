@@ -15,11 +15,11 @@ A tiny but decent little mechanical pencil. I've taken the clip off this one.
 
 Other tiny pens & pencils that are worth a look:
 - [Pilot Birdie pencil](https://www.discovery-japan.me/category/select/pid/51110/language/en/currency/JPY) - seems hard to find in Europe?
-- [Pilot Birdie Twin](https://www.pilotpen.eu/en/collections/product-categories/birdie-twin-mechanical-pencil-0-5-mm.html) - a tiny pen and pencil in one package
+- [Pilot Birdie Twin](https://www.pilotpen.eu/en/collections/product-categories/birdie-twin-mechanical-pencil-0-5-mm.html) - a tiny pen and pencil in one package, this is really a remarkable thing.
 - [OHTO Minimo pen](https://cultpens.com/products/ohto-minimo-ballpoint-pen) - even thinner, I don't find it easy to write with
 - [OHTO Minimo pencil](https://cultpens.com/products/ohto-minimo-mechanical-pencil) - ditto
 - Victorinox make a [tiny 1.2mm clutch pencil](https://www.swissworld.it/en/victorinox-spare-mini-pencil.html) which may be your only option if you want to fit into an Altoids tin
-- and of course the [tiny pen that goes in a Swiss Army Knife](https://www.knivesandtools.co.uk/en/pt/-victorinox-a-3644-pen-large.htm) - annoying to write with but very tiny
+- and of course the [tiny pen that goes in a Swiss Army Knife](https://www.knivesandtools.co.uk/en/pt/-victorinox-a-3644-pen-large.htm) - annoying to write with but very tiny.
 
 
 
