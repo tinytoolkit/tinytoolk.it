@@ -52,7 +52,7 @@ It's a multicolour pen/pencil - you buy the refills separately, from a very wide
 
 I like it for diagrams, which I often sketch in pencil then overwrite in colour.
 
-{{ figure(width=640, path="tools/tiny-pens-pencils/uni_ball_style_fit.jpeg") }}
+{{ figure(width=640, path="tools/tiny-pens-pencils/uni_ball_style_fit.jpg") }}
 
 ## Where to buy
 
