@@ -39,7 +39,24 @@ extended. It's very fun to play with.
 Notably, a business card box!
 
 ## Where to buy
-Upsettingly it looks like this specific version of the pen is out of stock everywhere -
+Upsettingly it looks like this specific version of the pen is out of stock almost everywhere -
 you can readily get a slightly bigger variant (just "SL-F1" or "Expandz" rather than
-"SL-F1 mini") though. This is a tad larger at 105mm retracted and 134mm expanded.
+"SL-F1 mini") though. This is a tad larger at 105mm retracted and 134mm expanded. 
 
+You might still be able to find this one on eBay, though.
+
+
+# Uni-ball Style Fit Multifunction Pen
+
+It's a multicolour pen/pencil - you buy the refills separately, from a very wide range of colours and widths, including mechanical pencils.
+
+I like it for diagrams, which I often sketch in pencil then overwrite in colour.
+
+{{ figure(width=640, path="tools/tiny-pens-pencils/uni_ball_style_fit.jpeg") }}
+
+## Where to buy
+
+[Cult Pens](https://cultpens.com/products/uni-ball-style-fit-customisable-5-colour-multifunction-pen) has quite a range, including 3 and 5 colour versions.
+
+The black one in the image is a Style Fit Meister, and is harder to find. It has an eraser, albeit a tiny one under an easily-lost cap.
+I got mine from [Plaza Japan](https://www.plazajapan.com/4902778137345/?setCurrencyId=1&gad_source=1)
