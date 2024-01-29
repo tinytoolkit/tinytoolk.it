@@ -19,8 +19,8 @@ A plastic business-card case. Maybe from eBay ?
 - Blank white business cards. I use a lot of these, usually for idea-generating processes, but also as construction material. They come from eBay in boxes of 1000
 - [Fisher 150mm satin chrome rule, cut down](@/tools/fisher_150mm_satin_chrome_rule.md)
 - Lasercut tiny setsquares - these worked OK but I'd like to do better
-- [Extending ballpoint](@/tools/tiny-pens-pencils/index.md)
-- [Folding scalpel](@/tools/tiny-knives/index.md)
-- [Fiskars folding scissors](@/tools/tiny-scissors/index.md)
-- [Zebra TS3 mechanical pencil](@/tools/tiny-pens-pencils/index.md)
+- [Extending ballpoint](@/tools/tiny-pens-pencils/index.md#zebra-sl-f1-mini-ballpoint-pen)
+- [Folding scalpel](@/tools/tiny-knives/index.md#folding-titanium-scalpel)
+- [Fiskars folding scissors](@/tools/tiny-scissors/index.md#fiskars-4-folding-scissors)
+- [Zebra TS3 mechanical pencil](@/tools/tiny-pens-pencils/index.md#zebra-ts3-mechanical-pencil)
 - Spare #11 scalpel blade

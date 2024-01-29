@@ -11,10 +11,15 @@ tags = ["things-that-mark"]
 
 A tiny but decent little mechanical pencil. I've taken the clip off this one.
 
-Also worth looking at the Pilot Birdie, which I think is a tiny bit longer. That comes in pen or pencil or a remarkable double-ended pen and pencil.
-
 {{ figure(width=640, path="tools/tiny-pens-pencils/zebra_ts3_pencil.jpg") }}
 
+Other tiny pens & pencils that are worth a look:
+- [Pilot Birdie pencil](https://www.discovery-japan.me/category/select/pid/51110/language/en/currency/JPY) - seems hard to find in Europe?
+- [Pilot Birdie Twin](https://www.pilotpen.eu/en/collections/product-categories/birdie-twin-mechanical-pencil-0-5-mm.html) - a tiny pen and pencil in one package, this is really a remarkable thing.
+- [OHTO Minimo pen](https://cultpens.com/products/ohto-minimo-ballpoint-pen) - even thinner, I don't find it easy to write with
+- [OHTO Minimo pencil](https://cultpens.com/products/ohto-minimo-mechanical-pencil) - ditto
+- Victorinox make a [tiny 1.2mm clutch pencil](https://www.swissworld.it/en/victorinox-spare-mini-pencil.html) which may be your only option if you want to fit into an Altoids tin
+- and of course the [tiny pen that goes in a Swiss Army Knife](https://www.knivesandtools.co.uk/en/pt/-victorinox-a-3644-pen-large.htm) - annoying to write with but very tiny.
 
 
 
@@ -34,7 +39,24 @@ extended. It's very fun to play with.
 Notably, a business card box!
 
 ## Where to buy
-Upsettingly it looks like this specific version of the pen is out of stock everywhere -
+Upsettingly it looks like this specific version of the pen is out of stock almost everywhere -
 you can readily get a slightly bigger variant (just "SL-F1" or "Expandz" rather than
-"SL-F1 mini") though. This is a tad larger at 105mm retracted and 134mm expanded.
+"SL-F1 mini") though. This is a tad larger at 105mm retracted and 134mm expanded. 
 
+You might still be able to find this one on eBay, though.
+
+
+# Uni-ball Style Fit Multifunction Pen
+
+It's a multicolour pen/pencil - you buy the refills separately, from a very wide range of colours and widths, including mechanical pencils.
+
+I like it for diagrams, which I often sketch in pencil then overwrite in colour.
+
+{{ figure(width=640, path="tools/tiny-pens-pencils/uni_ball_style_fit.jpg") }}
+
+## Where to buy
+
+[Cult Pens](https://cultpens.com/products/uni-ball-style-fit-customisable-5-colour-multifunction-pen) has quite a range, including 3 and 5 colour versions.
+
+The black one in the image is a Style Fit Meister, and is harder to find. It has an eraser, albeit a tiny one under an easily-lost cap.
+I got mine from [Plaza Japan](https://www.plazajapan.com/4902778137345/?setCurrencyId=1&gad_source=1)
