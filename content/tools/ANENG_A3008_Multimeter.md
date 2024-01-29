@@ -19,19 +19,21 @@ Hell Yes! This tiny multimeter is a featherweight 80g.
 
 **Is it good enough to earn a place in my tiny toolkit?**
 
-Yes, this multimeter is accurate enough and is often enough to help fix products and debug projects in the field.
-The tool at hand is more useful than the tool left at home.
+Yes, this multimeter is accurate enough and is often enough of a tool to help fix products and debug Arduino projects in the field. The tool at hand is more useful than the tool left at home.
 
  [Review 1](https://www.eevblog.com/forum/testgear/aneng-a3008-(6000-count-ultra-compact-pen-type-dmm)-review-photos-and-teardown/) and [Review 2](https://chinese-electronics-products-tested.blogspot.com/p/aneng-a3008-pen-multimeter-tested.html/)
 
-
 **Core multimeter functions:**
 
-DC voltage, AC voltage and resistance with auto mode-select and auto-range. 
-Occasional use modes:
-Diode, Frequency, Capacitance, Temperature, Proximity detection of live wires.
-Modes that I will probably never use:
-Phase detection and a built in torch.
+* DC voltage, AC voltage and resistance with auto mode-select and auto-range. 
+
+**Occasional use modes:**
+
+* Diode, Frequency, Capacitance, Temperature, Proximity detection of live wires.
+
+**Modes that I will probably never use:**
+
+* Phase detection and a built in torch.
 
 {{ figure(width=640, path="tools/A3008Multimeter2.jpg") }}
 
