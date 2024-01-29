@@ -8,7 +8,7 @@ tags = ["things-that-Measure"]
 {{ figure(width=640, path="tools/A3008Multimeter.jpg") }}
 
 Is it a great tool? 
-NO! It costs just £12 from Aliexpress, it looks and feels like a toy.
+No! It costs just £12 from Aliexpress, it looks and feels like a toy.
 
 Is it ultra portable?
 Hell Yes! This tiny multimeter is a featherweight 80g.
