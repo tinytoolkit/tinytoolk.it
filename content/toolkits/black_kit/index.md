@@ -37,7 +37,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - 4mm hex bits and drivers. Bits from various sets, [3D printed case and drivers](https://jarkman.co.uk/catalog/fripperies/4mmset.htm)
 - Black plastic meter box key
 - Tiny spirit level
-- [Facom R.180PB flexible head ratchet driver for 1/4" hex, and printed bit holder](@/tools/facom-r180)
+- [Facom R.180PB flexible head ratchet driver for 1/4" hex, and printed bit holder](@/tools/facom-r180/index.md)
 - Midori XS tiny tape measure
 - Vintage Girder Minor No. 90 adjustable spanner by Joseph Lucas Ltd (if you can't find one of these, Bahco make a lovely adjustable in about the same size)
 - Knipex Cobra XS 87-100 pipe wrench
@@ -46,7 +46,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Locking forceps
 - Small Peugot side cutters
 - Small Peugot electronics pliers
-- [CK electrician's scissors - these will cut anything](@tools/tiny-scissors#ck-electrician-s-scissors)
+- [CK electrician's scissors - these will cut anything](@tools/tiny-scissors.md#ck-electrician-s-scissors)
 
 
 
