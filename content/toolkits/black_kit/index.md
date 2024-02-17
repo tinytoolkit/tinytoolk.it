@@ -10,7 +10,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 ## Case
 
-{{ figure(width=640, path="tookits/black_kit/closed.jpg") }}
+{{ figure(width=640, path="toolkits/black_kit/closed.jpg") }}
 
 [Lihit Lab Book-Type Pen Case Large, LL00005](https://cultpens.com/products/lihit-lab-triple-pen-case)
 
@@ -19,8 +19,8 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 ### Layer 1
 
-{{ figure(width=640, path="tookits/black_kit/layer_1_packed.jpg") }}
-{{ figure(width=640, path="tookits/black_kit/layer_1_unpacked.jpg") }}
+{{ figure(width=640, path="toolkits/black_kit/layer_1_packed.jpg") }}
+{{ figure(width=640, path="toolkits/black_kit/layer_1_unpacked.jpg") }}
 
 - Wera Kraftform Micro drivers, hex and ball hex, straight, Phillips/JIS
 - Wera 5.5mm nut driver
@@ -30,17 +30,17 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 ### Layer 2
 
-{{ figure(width=640, path="tookits/black_kit/layer_2_packed.jpg") }}
-{{ figure(width=640, path="tookits/black_kit/layer_2_unpacked.jpg") }}
+{{ figure(width=640, path="toolkits/black_kit/layer_2_packed.jpg") }}
+{{ figure(width=640, path="toolkits/black_kit/layer_2_unpacked.jpg") }}
 
 
 ### Layer 3
 
-{{ figure(width=640, path="tookits/black_kit/layer_3_packed.jpg") }}
-{{ figure(width=640, path="tookits/black_kit/layer_3_unpacked.jpg") }}
+{{ figure(width=640, path="toolkits/black_kit/layer_3_packed.jpg") }}
+{{ figure(width=640, path="toolkits/black_kit/layer_3_unpacked.jpg") }}
 
 
 ### Layer 4
 
-{{ figure(width=640, path="tookits/black_kit/layer_4_packed.jpg") }}
-{{ figure(width=640, path="tookits/black_kit/layer_4_unpacked.jpg") }}
+{{ figure(width=640, path="toolkits/black_kit/layer_4_packed.jpg") }}
+{{ figure(width=640, path="toolkits/black_kit/layer_4_unpacked.jpg") }}
