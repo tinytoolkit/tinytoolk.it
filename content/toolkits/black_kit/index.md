@@ -46,7 +46,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Locking forceps
 - Small Peugot side cutters
 - Small Peugot electronics pliers
-- [CK electrician's scissors - these will cut anything](@tools/tiny-scissors.md#ck-electrician-s-scissors)
+- [CK electrician's scissors - these will cut anything](@/tools/tiny-scissors.md#ck-electrician-s-scissors)
 
 
 
@@ -54,6 +54,29 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 {{ figure(width=640, path="toolkits/black_kit/layer_3_packed.jpg") }}
 {{ figure(width=640, path="toolkits/black_kit/layer_3_unpacked.jpg") }}
+
+- Black plastic tweezers
+- Cross-locking stainless tweezers (very handy for holding wires or connectors while soldering)
+- Stainless tweezers
+- Pointy stainless tweezers
+- Diamond needle files
+- A bit of 4mm nylon pneumatic tubing
+- [75mm digital caliper with the buttons shaved down so it doesn't turn on in the bag](https://www.machine-dro.co.uk/calipers/machine-dro-me-cal-po-75-digital-caliper-pocket-0-75mm-0-3-inch)
+- [Swann-Morton Retractaway scalpel](@/tools/tiny-knives.md#swann-morton-retractaway-scalpel)
+- [Stanley 9mm Interlock snap-bade knife](@/tools/tiny-knives.md#stanley-9mm-interlock-snap-blade-knife)
+- 12mm PVC insulating tape
+- A 1/4" keyring screwdriver with a reversible blade, phillips/flat
+- Tiny hook made from an old dental tool, for pulling wires
+- Two short lengths of 1.6mm MIG wire for poking things
+- Black plastic spudger
+- Thin springy steel spudger
+- A bit of 4mm silver steel
+- Tiny home-made pry bar
+- Fine Sharpie
+- Regular Sharpie
+- Staedler Triplus Micro 0.5mm mechanical pencil - these have an excellent (and large) eraser
+- Fisher 150mm satin chrome rule
+
 
 
 ### Layer 4
