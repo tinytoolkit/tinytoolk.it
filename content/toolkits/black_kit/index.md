@@ -72,7 +72,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Thin springy steel spudger
 - A bit of 4mm silver steel
 - Tiny home-made pry bar
-- [Starett 70B pocket scriber - reversible so you can put the point away, handy awl for poking holes in things. Great for makign cable-ties holes in fabrics, where it spreads the fibers rather than cutting them.](https://www.starrett.co.uk/products/precision-hand-tools/scribers/pocket-scribers/70b-pocket-scriber/)
+- [Starett 70B pocket scriber - reversible so you can put the point away, handy awl for poking holes in things. Great for making cable-tie holes in fabrics, where it spreads the fibers rather than cutting them.](https://www.starrett.co.uk/products/precision-hand-tools/scribers/pocket-scribers/70b-pocket-scriber/)
 - Fine Sharpie
 - Regular Sharpie
 - Staedler Triplus Micro 0.5mm mechanical pencil - these have an excellent (and large) eraser
@@ -84,3 +84,32 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 {{ figure(width=640, path="toolkits/black_kit/layer_4_packed.jpg") }}
 {{ figure(width=640, path="toolkits/black_kit/layer_4_unpacked.jpg") }}
+
+- 240 grit wet&dry paper
+- spare battery for multimeter
+- spare scalpel blade
+- blob of black tack
+- Photon freedom micro torch, with a rubber band to attach it to the clip-on magnifier below. These are surprisingly fancy, they latch on and have adjustable brightness.
+- Solder
+- 100kg/1mm Dyneema fishing line in a ziplock
+- Cable ties
+- 50kg/0.5mm Dyneema fishing line in a ziplock
+- Heavy sewing thread, on a sewing machine bobbin for convenience
+- Assortment of sewing needles in a 3D printed needle case
+- Alcohol wipe
+- More wet & dry paper
+- Clip leads
+- Rubber band
+- 2 and 3 way Wago connectors
+- [Clip-on magnifier to attach to glasses](https://www.quicktest.co.uk/collections/magnifiers-shop/products/double-lens-clips-to-front-of-specs-clipon-d-2)
+- Probes for tiny scope
+- Tiny Allen keys in a ziplock
+- 3M VHB double-sided tape
+- Self-amagamating tape
+- Duct tape
+- Jumpers and bits of solid-core wire (having even a little bit of wire is much better than having no wire at all)
+- Unit-T UT10A multimeter. Quite usable for its size and low cost. Attached probes save space.
+- Tiny oscilloscope - DSO Nano from Seeed Studio, DSONV-11
+
+
+
