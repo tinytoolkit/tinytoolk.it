@@ -19,8 +19,8 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 ### Layer 1
 
-{{ figure(width=640, path="toolkits/black_kit/layer_1_packed.jpg") }}
-{{ figure(width=640, path="toolkits/black_kit/layer_1_unpacked.jpg") }}
+{{ figure(width=1024, path="toolkits/black_kit/layer_1_packed.jpg") }}
+{{ figure(width=1024, path="toolkits/black_kit/layer_1_unpacked.jpg") }}
 
 - Wera Kraftform Micro drivers, hex and ball hex, straight, Phillips/JIS
 - Wera 5.5mm nut driver for M3 nuts
@@ -62,8 +62,8 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Diamond needle files
 - A bit of 4mm nylon pneumatic tubing
 - [75mm digital caliper with the buttons shaved down so it doesn't turn on in the bag](https://www.machine-dro.co.uk/calipers/machine-dro-me-cal-po-75-digital-caliper-pocket-0-75mm-0-3-inch)
-- [Swann-Morton Retractaway scalpel](@/tools/tiny-knives.md#swann-morton-retractaway-scalpel)
-- [Stanley 9mm Interlock snap-bade knife](@/tools/tiny-knives.md#stanley-9mm-interlock-snap-blade-knife)
+- [Swann-Morton Retractaway scalpel](@/tools/tiny-knives/index.md#swann-morton-retractaway-scalpel)
+- [Stanley 9mm Interlock snap-bade knife](@/tools/tiny-knives/index.md#stanley-9mm-interlock-snap-blade-knife)
 - 12mm PVC insulating tape
 - A 1/4" keyring screwdriver with a reversible blade, phillips/flat
 - Tiny hook made from an old dental tool, for pulling wires
