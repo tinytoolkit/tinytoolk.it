@@ -22,7 +22,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 {{ figure(width=640, path="tookits/black_kit/layer_1_packed.jpg") }}
 {{ figure(width=640, path="tookits/black_kit/layer_1_unpacked.jpg") }}
 
-- Wera small drivers, hex and ball hex, straight, JIS
+- Wera Kraftform Micro drivers, hex and ball hex, straight, Phillips/JIS
 - Wera 5.5mm nut driver
 - 1/8 flat screwdriver, for use as a prybar and chisel
 - Facom combination spanners, by far the nicest tiny spanners have found. I get these from Farnell.
