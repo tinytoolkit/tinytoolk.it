@@ -19,8 +19,8 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 ### Layer 1
 
-{{ figure(width=1024, path="toolkits/black_kit/layer_1_packed.jpg") }}
-{{ figure(width=1024, path="toolkits/black_kit/layer_1_unpacked.jpg") }}
+{{ figure(width=640, path="toolkits/black_kit/layer_1_packed.jpg") }}
+{{ figure(width=640, path="toolkits/black_kit/layer_1_unpacked.jpg") }}
 
 - Wera Kraftform Micro drivers, hex and ball hex, straight, Phillips/JIS
 - Wera 5.5mm nut driver for M3 nuts
@@ -44,8 +44,8 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Knipex Pliers Wrench XS 86-100 
 - Folding metric allen key set
 - Locking forceps
-- Small Peugot side cutters
-- Small Peugot electronics pliers
+- Small Peugeot side cutters
+- Small Peugeot electronics pliers
 - [CK electrician's scissors - these will cut anything](@/tools/tiny-scissors/index.md#ck-electrician-s-scissors)
 
 
@@ -57,7 +57,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 - Black plastic tweezers
 - Cross-locking stainless tweezers (very handy for holding wires or connectors while soldering)
-- Stainless tweezers
+- Flat stainless tweezers
 - Pointy stainless tweezers
 - Diamond needle files
 - A bit of 4mm nylon pneumatic tubing
@@ -72,6 +72,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Thin springy steel spudger
 - A bit of 4mm silver steel
 - Tiny home-made pry bar
+- [Starett 70B pocket scriber - reversible so you can put the point away, handy awl for poking holes in things. Great for makign cable-ties holes in fabrics, where it spreads the fibers rather than cutting them.](https://www.starrett.co.uk/products/precision-hand-tools/scribers/pocket-scribers/70b-pocket-scriber/)
 - Fine Sharpie
 - Regular Sharpie
 - Staedler Triplus Micro 0.5mm mechanical pencil - these have an excellent (and large) eraser
