@@ -46,7 +46,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Locking forceps
 - Small Peugot side cutters
 - Small Peugot electronics pliers
-- [CK electrician's scissors - these will cut anything](@/tools/tiny-scissors.md#ck-electrician-s-scissors)
+- [CK electrician's scissors - these will cut anything](@/tools/tiny-scissors/index.md#ck-electrician-s-scissors)
 
 
 
