@@ -73,8 +73,8 @@ I like this because it will erase a thin line.
 
 {{ figure(width=640, path="tools/tiny-pens-pencils/pentel_ze31.jpg") }}
 
-# Crea8 6mm gaffer tape
+# Cre8 6mm gaffer tape
 
-This is a [nice peelable cotton gaffer tape] (https://cre8tapes.com/product/non-reflective-gaffer-cre8-nrg/) which comes in great colours and various widths, including 6mm. I've printed a tiny spool so I can carry a few meters of it around.
+This is a [nice peelable cotton gaffer tape](https://cre8tapes.com/product/non-reflective-gaffer-cre8-nrg/) which comes in great colours and various widths, including 6mm. I've printed a tiny spool so I can carry a few meters of it around.
 
 {{ figure(width=640, path="tools/tiny-pens-pencils/cre8_6mm_gaffer.jpg") }}
