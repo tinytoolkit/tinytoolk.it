@@ -5,7 +5,7 @@ title = "Jarkman's Zyklop Kit"
 This started life as a [Wera Kraftform Kompakt Zyklop Speed, 26 pieces, 05051045001](https://products.wera.de/en/ratchets_and_accessories_the_zyklop_ratchets_the_zyklop_ratchets_1_4_the_zyklop_speed_ratchet_1_4_kraftform_kompakt_zyklop.html)
 but I've added a few bits.
 
-It's a very nice 1/4" square-drive ratchet plus a decent screwdriver. I like these 50mm long bits as a compromise between compactness and being able to reach down holes. This is the set I usually grab when going off to do anything with screws & nuts & bolts, because it covers so many bases in one go.
+It does the job of a very nice 1/4" square-drive ratchet and a decent screwdriver. I like these 50mm long bits as a compromise between compactness and being able to reach down holes. This is the set I usually grab when going off to do anything with screws & nuts & bolts, because it covers so many bases in one go.
 
 It's also a handy set of bits to take along for use with a drill/driver or impact driver.
 
