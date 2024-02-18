@@ -60,3 +60,21 @@ I like it for diagrams, which I often sketch in pencil then overwrite in colour.
 
 The black one in the image is a Style Fit Meister, and is harder to find. It has an eraser, albeit a tiny one under an easily-lost cap.
 I got mine from [Plaza Japan](https://www.plazajapan.com/4902778137345/?setCurrencyId=1&gad_source=1)
+
+# Pentel PH158 Multi-pencil
+
+Mostly used for colour-coding and shading diagrams - 8 decent coloured pencils in one go. Also comes in some variants with magical process-safe colours for various print processes.
+
+{{ figure(width=640, path="tools/tiny-pens-pencils/pentel_ph158.jpg") }}
+
+# Pentel ZE31 eraser
+
+I like this because it will erase a thin line.
+
+{{ figure(width=640, path="tools/tiny-pens-pencils/pentel_ze31.jpg") }}
+
+# Crea8 6mm gaffer tape
+
+This is a [nice peelable cotton gaffer tape] (https://cre8tapes.com/product/non-reflective-gaffer-cre8-nrg/) which comes in great colours and various widths, including 6mm. I've printed a tiny spool so I can carry a few meters of it around.
+
+{{ figure(width=640, path="tools/tiny-pens-pencils/cre8_6mm_gaffer.jpg") }}
