@@ -40,8 +40,8 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - [Facom R.180PB flexible head ratchet driver for 1/4" hex, and printed bit holder](@/tools/facom-r180/index.md)
 - [Midori XS tiny tape measure](@/tools/tiny-measures/index.md#midori-xs-tape-measure)
 - Vintage Girder Minor No. 90 adjustable spanner by Joseph Lucas Ltd (if you can't find one of these, Bahco make a lovely adjustable in about the same size)
-- Knipex Cobra XS 87-100 pipe wrench
-- Knipex Pliers Wrench XS 86-100 
+- [Knipex Cobra XS 87-100 pipe wrench](@tools/knipex-xs/index.md)
+- [Knipex Pliers Wrench XS 86-100](@tools/knipex-xs/index.md)
 - Folding metric allen key set
 - Locking forceps
 - Small Peugeot side cutters
