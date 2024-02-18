@@ -71,11 +71,11 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Black plastic spudger
 - Thin springy steel spudger
 - A bit of 4mm silver steel
-- Tiny home-made pry bar
+- [Tiny home-made pry bar](@/tools/tiny-prybar.md)
 - [Starett 70B pocket scriber - reversible so you can put the point away, handy awl for poking holes in things. Great for making cable-tie holes in fabrics, where it spreads the fibers rather than cutting them.](https://www.starrett.co.uk/products/precision-hand-tools/scribers/pocket-scribers/70b-pocket-scriber/)
 - Fine Sharpie
 - Regular Sharpie
-- Staedler Triplus Micro 0.5mm mechanical pencil - these have an excellent (and large) eraser
+- [Staedler Triplus Micro 0.5mm mechanical pencil](@/tools/tiny-pens-pencils/index.md##staedtler-triplus-micro-pencil)
 - [Fisher 150mm satin chrome rule, cut down](@/tools/tiny-measures/index.md#fisher-150mm-satin-chrome-rule)
 
 
