@@ -78,3 +78,15 @@ I like this because it will erase a thin line.
 This is a [nice peelable cotton gaffer tape](https://cre8tapes.com/product/non-reflective-gaffer-cre8-nrg/) which comes in great colours and various widths, including 6mm. I've printed a tiny spool so I can carry a few meters of it around.
 
 {{ figure(width=640, path="tools/tiny-pens-pencils/cre8_6mm_gaffer.jpg") }}
+
+# Staedtler Lumocolor Duo marker
+
+Permanent marker, bullet tip and one end, fine at the other.
+
+{{ figure(width=640, path="tools/tiny-pens-pencils/lumocolor_duo.jpg") }}
+
+# Staedtler Triplus Micro pencil
+
+Sturdy 0.5mm mechanical pencil which retracts when not in use, large eraser 
+
+{{ figure(width=640, path="tools/tiny-pens-pencils/triplus_micro.jpg") }}
