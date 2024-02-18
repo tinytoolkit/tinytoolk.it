@@ -12,7 +12,7 @@ At Paper Club, we make things out of paper. Cut, folded, taped, glued, tiny and 
 Sewn - cotton canvas, a scrap of leather for a cover, #10 zip
 
 ## Contents
-- [Folding rule](@/tools/tiny_measures/index.md#kutsuwa_folding_rule)
+<!--- - [Folding rule](@/tools/tiny_measures/index.md#kutsuwa_folding_rule) -->
 - [Folding scissors](@/tools/tiny-scissors/index.md)
 <!--- - [0.5mm mechanical-pencil compass](@/tools/tiny_measures/index.md#sharpest_compass)-->
 
