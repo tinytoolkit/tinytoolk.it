@@ -38,7 +38,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Black plastic meter box key
 - Tiny spirit level
 - [Facom R.180PB flexible head ratchet driver for 1/4" hex, and printed bit holder](@/tools/facom-r180/index.md)
-- [Midori XS tiny tape measure](@/tools/tiny_measures/index.md#midori-xs-tape-measure)
+- [Midori XS tiny tape measure](@/tools/tiny-measures/index.md#midori-xs-tape-measure)
 - Vintage Girder Minor No. 90 adjustable spanner by Joseph Lucas Ltd (if you can't find one of these, Bahco make a lovely adjustable in about the same size)
 - Knipex Cobra XS 87-100 pipe wrench
 - Knipex Pliers Wrench XS 86-100 
@@ -76,7 +76,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Fine Sharpie
 - Regular Sharpie
 - Staedler Triplus Micro 0.5mm mechanical pencil - these have an excellent (and large) eraser
-- [Fisher 150mm satin chrome rule, cut down](@/tools/tiny_measures/index.md#fisher-150mm-satin-chrome-rule)
+- [Fisher 150mm satin chrome rule, cut down](@/tools/tiny-measures/index.md#fisher-150mm-satin-chrome-rule)
 
 
 
