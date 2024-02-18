@@ -12,9 +12,9 @@ At Paper Club, we make things out of paper. Cut, folded, taped, glued, tiny and 
 Sewn - cotton canvas, a scrap of leather for a cover, #10 zip
 
 ## Contents
-<!--- - [Folding rule](@/tools/tiny_measures/index.md#kutsuwa_folding_rule) -->
+- [Folding rule](@/tools/tiny_measures/index.md#kutsuwa-folding-rule)
 - [Folding scissors](@/tools/tiny-scissors/index.md)
-<!--- - [0.5mm mechanical-pencil compass](@/tools/tiny_measures/index.md#sharpest_compass)-->
+- [0.5mm mechanical-pencil compass](@/tools/tiny_measures/index.md#sharpest-compass)
 
 - [Retractaway scalpel and spare blade](@/tools/tiny-knives/index.md)
 - Cheap circle-cutter. If you want one of these, the [Olfa ones](https://olfacutters.co.uk/index.php?route=product/search&search=compass%20cutter) are better.
