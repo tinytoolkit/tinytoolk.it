@@ -76,7 +76,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Fine Sharpie
 - Regular Sharpie
 - Staedler Triplus Micro 0.5mm mechanical pencil - these have an excellent (and large) eraser
-- [Fisher 150mm satin chrome rule, cut down](@/tools/tiny_measures/index.md#fisher_150mm_satin_chrome_rule)
+<!--- - [Fisher 150mm satin chrome rule, cut down](@/tools/tiny_measures/index.md#fisher_150mm_satin_chrome_rule) -->
 
 
 
