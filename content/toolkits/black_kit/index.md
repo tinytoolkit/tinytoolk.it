@@ -76,7 +76,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 - Fine Sharpie
 - Regular Sharpie
 - [Staedler Triplus Micro 0.5mm mechanical pencil](@/tools/tiny-pens-pencils/index.md##staedtler-triplus-micro-pencil)
-- [Fisher 150mm satin chrome rule, cut down](@/tools/tiny-measures/index.md#fisher-150mm-satin-chrome-rule)
+- [Fisher 150mm satin chrome rule](@/tools/tiny-measures/index.md#fisher-150mm-satin-chrome-rule)
 
 
 
