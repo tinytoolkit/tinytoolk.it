@@ -19,6 +19,10 @@ They have history, with years of opinionated adding and removing of tools.
 
 That means there are a lot more relevant tools. Plus it doesn't all have to fit in your trouser pockets. Which is good, because it doesn't.
 
+## Why did we make a website about them ? 
+
+Because we're all interested, especially in the ones which have taken some tiem and trouble to find, and we think other people might be too.
+
 ## Which is the best one ? 
 
 They're all good. Depends what you need to do.
