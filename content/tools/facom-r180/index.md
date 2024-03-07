@@ -18,3 +18,8 @@ I printed a [TPU clip](https://www.printables.com/model/694135-holder-for-facom-
 {{ figure(width=640, path="tools/facom-r180/r180_4.jpg") }}
 {{ figure(width=640, path="tools/facom-r180/r180_5.jpg") }}
 {{ figure(width=640, path="tools/facom-r180/r180_6.jpg") }}
+
+Some similar ratchets are available in the [bike tool market](https://www.bikemag.com/gear/versus-ratcheting-multi-tools)
+
+and [mostly as Leatherman accessories from 711L](https://www.amazon.com/stores/711L/page/E11B6A87-C4A5-4606-8B99-3AEDF8996797?ref_=ast_bln)
+
