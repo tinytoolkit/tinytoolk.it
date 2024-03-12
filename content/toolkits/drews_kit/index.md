@@ -32,11 +32,11 @@ An ultra portable toolkit when products might need assembling or repairing. Most
 {{ figure(width=640, path="toolkits/drews_kit/layer_2_packed.jpg") }}
 {{ figure(width=640, path="toolkits/drews_kit/layer_2_unpacked.jpg") }}
 
-- [Ifixit Micro 4mm screwdriver](@/tools/ifixit-mako-4mm-screwdriver-kit.md) - Excellent quality and ergonomics.
+- [Ifixit Micro 4mm screwdriver](@/tools/ifixit_Mako_4mm_Screwdriver_Kit.md) - Excellent quality and ergonomics.
 - With 35no. 4mm bits 
 - Holder for 4mm bits 1 & 2 [3D printed case and drivers](https://jarkman.co.uk/catalog/fripperies/4mmset.htm)
 - Holder for 4mm bits with 29 bits that I almost never use.
-- [Multi-Ratchet screwdriver](@/tools/atuman-r1-ratchet-wrench-screwdriver-kit.md) Daku/ATUman - Surprisingly versatile.
+- [Multi-Ratchet screwdriver](@/tools/Atuman_R1_Ratchet_Wrench_Screwdriver_Kit.md) Daku/ATUman - Surprisingly versatile.
 - 17no. 6mm bits in a 3D printed Custom Holder
 
 ### Layer 3 - Metal and Holding
@@ -65,7 +65,7 @@ An ultra portable toolkit when products might need assembling or repairing. Most
 - Solder and Flux
 - Custom Altoids tin soldering station
 - Adapter from Dell Laptop power supply to Pinecil - very cheap, saves me carrying another PSU.
-- [ANENG A3008 multimeter](@tools/aneng-a3008-multimeter.md)- tiny, lightweight and low cost.
+- [ANENG A3008 multimeter](@/tools/ANENG_A3008_Multimeter.md)- tiny, lightweight and low cost.
 - 2 strengths of polyester kite string in a ziplock bag
 - Cable ties
 - Disposible rubber gloves
