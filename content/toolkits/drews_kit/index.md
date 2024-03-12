@@ -4,13 +4,13 @@ title = "Drew's Tiny Toolkit"
 by = ["Drew"]
 +++
 
-An ultra portable toolkit when products might need assembling or repairing. Mostly used for repairing small mechanical and electronic products, arduino projects, robots and 3D printers.
+An ultra portable toolkit for assembling and repairing electo mechanical products, arduino projects, robots and 3D printers.
 
 ## Case
 
 {{ figure(width=640, path="toolkits/drews_kit/drews_tools.jpg") }}
 
-[Lihit Lab Red Book-Type Pen Case Large, LL00005](https://cultpens.com/products/lihit-lab-triple-pen-case)
+[Lihit Lab Large Red Book-Type Pen Case](https://cultpens.com/products/lihit-lab-triple-pen-case), LL00005
 
 ## Contents
 
@@ -19,60 +19,61 @@ An ultra portable toolkit when products might need assembling or repairing. Most
 {{ figure(width=640, path="toolkits/drews_kit/layer_1_packed.jpg") }}
 {{ figure(width=640, path="toolkits/drews_kit/layer_1_unpacked.jpg") }}
 
-- 100 by 150mm micro cutting mat - Junesix
+- Eclipse scriber with reversible point
+- ifixit 150mm flexible rule - "Repair is noble"
+- Muji micro paper knife - Snape blades 
 - Sharpie
 - Pen		
 - Pilot mechanical pencil 
-- ifixit 150mm flexible rule - "Repair is noble"
-- Muji micro paper knife - Snape blades 
-- Eclipse scriber with reversible point
+- 100 by 150mm micro cutting mat - Junesix
 
-### Layer 2 - Screwing
+### Layer 2 - Unscrewing
 
 {{ figure(width=640, path="toolkits/drews_kit/layer_2_packed.jpg") }}
 {{ figure(width=640, path="toolkits/drews_kit/layer_2_unpacked.jpg") }}
 
 - [Ifixit Micro 4mm screwdriver](@/tools/ifixit_Mako_4mm_Screwdriver_Kit.md) - Excellent quality and ergonomics.
-- With 35no. 4mm bits 
-- Holder for 4mm bits 1 & 2 [3D printed case and drivers](https://jarkman.co.uk/catalog/fripperies/4mmset.htm)
-- Holder for 4mm bits with 29 bits that I almost never use.
+- With 35no. 4mm bits in 2 custom [3D printed cases](https://www.printables.com/model/700125-4mm-screwdriver-bit-holders)
 - [Multi-Ratchet screwdriver](@/tools/Atuman_R1_Ratchet_Wrench_Screwdriver_Kit.md) Daku/ATUman - Surprisingly versatile.
-- 17no. 6mm bits in a 3D printed Custom Holder
+- 17no. 6mm bits in another [3D printed custom Holder](https://www.printables.com/model/694147-compact-holder-for-14-bits)
 
-### Layer 3 - Metal and Holding
+### Layer 3 - Holding & Poking
 
 {{ figure(width=640, path="toolkits/drews_kit/layer_3_packed.jpg") }}
 {{ figure(width=640, path="toolkits/drews_kit/layer_3_unpacked.jpg") }}
 
-- [Heavy Duty medical scissors](@/tools/Surgimax_tough_cut_scissors.md)
-- [Knipex Cobra XS 87-125 pliers wrench](@tools/knipex-xs/index.md)
-- 4 Needle files - Bundled with heat shrink tubing
 - [Tiny home-made pry bar](@/tools/tiny-prybar.md) by Jarkman Industries
-- A lighter
+- 4 Needle files - Bundled with heat shrink tubing
 - Reverse acting tweezers
-- Pointy stainless tweezers
-- Hemostat grippers
-- Cheapo generic multitool - It's 20+ years old and not great quality, but I already have it.
 - Metal Skewer - for poking and prodding
+- Pointy stainless tweezers
+- Cheapo generic multitool - It's 20+ years old and not great quality, but I already have it.
+- Hemostat grippers
+- [Heavy Duty medical scissors](@/tools/Surgimax_tough_cut_scissors.md)
+- A lighter for heatshrink and string
+- [Knipex Cobra XS 87-125 pliers wrench](@tools/knipex-xs/index.md)
 
-### Layer 4 - Electronics and Small Parts
+### Layer 4 - Electronics & Small Parts
 
 {{ figure(width=640, path="toolkits/drews_kit/layer_4_packed.jpg") }}
 {{ figure(width=640, path="toolkits/drews_kit/layer_4_unpacked.jpg") }}
 
 - [Pinecil soldering iron](@tools/pinecil-soldering-iron.md)
 - [3D printed case](https://www.printables.com/model/188072-pinecil-soldering-iron-tiny-case) for Pinecil
-- Solder and Flux
 - Custom Altoids tin soldering station
 - Adapter from Dell Laptop power supply to Pinecil - very cheap, saves me carrying another PSU.
+- Solder and Flux
 - [ANENG A3008 multimeter](@/tools/ANENG_A3008_Multimeter.md)- tiny, lightweight and low cost.
 - 2 strengths of polyester kite string in a ziplock bag
 - Cable ties
-- Disposible rubber gloves
+- Heat shrink
+- Safety pin
 - 2 and 3 way Wago connectors
 - Jumpers, some 22-24swg solid-core wire some multi-core wire
+- Disposible rubber gloves
 
-That's it at the moment, this kit currently weights 1.3kg with plenty of capacity to add more tools in future. I am considering including; a sewing kit, another knife, tapes, glue, sand paper, protractor and side cutters.
+That's all.
+At the moment this kit currently weights 1.3kg with plenty of capacity to add more tools in future. I am currently considering including; a sewing kit, another knife, tapes, glue, sand paper, protractor and side cutters.
 
 {{ figure(width=640, path="toolkits/drews_kit/top.jpg") }}
 {{ figure(width=640, path="toolkits/drews_kit/rear.jpg") }}
