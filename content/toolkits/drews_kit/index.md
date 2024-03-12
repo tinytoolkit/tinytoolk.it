@@ -44,7 +44,7 @@ An ultra portable toolkit when products might need assembling or repairing. Most
 {{ figure(width=640, path="toolkits/drews_kit/layer_3_packed.jpg") }}
 {{ figure(width=640, path="toolkits/drews_kit/layer_3_unpacked.jpg") }}
 
-- [Heavy Duty medical scissors](@/tools/Surgimax-tough-cut-scissors.md)
+- [Heavy Duty medical scissors](@/tools/Surgimax_tough_cut_scissors.md)
 - [Knipex Cobra XS 87-125 pliers wrench](@tools/knipex-xs/index.md)
 - 4 Needle files - Bundled with heat shrink tubing
 - [Tiny home-made pry bar](@/tools/tiny-prybar.md) by Jarkman Industries
