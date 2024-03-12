@@ -4,7 +4,7 @@ title = "Drew's Tiny Toolkit"
 by = ["Drew"]
 +++
 
-An ultra portable toolkit for assembling and repairing electo mechanical products, arduino projects, robots and 3D printers.
+An ultra portable toolkit for assembling and repairing electro-mechanical products, arduino projects, robots and 3D printers.
 
 ## Case
 
