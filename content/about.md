@@ -14,7 +14,9 @@ By the time they left the table that evening the domain was bought, the site up,
 first few tools had been photographed (and two members of pub staff thoroughly
 perplexed).
 
-Soon after, fellow tiny toolkit fan [Drew] joined the project, to add more tools and tool kits to the site and presented ["The Tiny Toolkit Manifesto"](https://tinytoolk.it/manifesto/) at Electromagnetic Field 2024. 
+Soon after, fellow tiny toolkit fan [Drew] joined the project, adding more tools and 
+toolkits to this site and presented [The Tiny Toolkit Manifesto](https://tinytoolk.it/manifesto/) 
+at Electromagnetic Field 2024. 
 
 
 ## Show us your toolkits!

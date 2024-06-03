@@ -18,9 +18,10 @@ title = "Tiny Toolkit Manifesto"
 13. The best tool is your brain.
 
 
+## Tiny Tool Talk at EMF 2024
 
-## Tiny Tool Kit Manifesto Talk at EMF
+{{ figure(width=640, path="anifesto\TinyToolKitTalkEMF.jpg") }}
 
 [Drew](https://drewbatchelor.com/) wrote and presented a talk at [Electromagnetic Field 2024](https://www.emfcamp.org/) about the joy of tiny tool kits, introducing the Tiny Toolkit Manifesto and this website.
 
-When the video of that talk is live, we will add it here. In the meantime, here are the slides from the talk, and here is [the spreadsheet]("manifesto/TinyToolkit.xlsx") mentioned in the talk which is a reasonable aproximation of Drew's product engineering and repair kit.
+When the video of that talk is live, we will add it here. In the meantime, here is [the spreadsheet](TinyToolkit.xlsx) mentioned in the talk which has a reasonable aproximation of Drew's product engineering and repair kit and of Jarkman's Robot fixing kit.
