@@ -20,7 +20,7 @@ title = "Tiny Toolkit Manifesto"
 
 ## Tiny Tool Talk at EMF 2024
 
-{{ figure(width=640, path="anifesto\TinyToolKitTalkEMF.jpg") }}
+{{ figure(width=640, path="manifesto/TinyToolKitTalkEMF.jpg") }}
 
 [Drew](https://drewbatchelor.com/) wrote and presented a talk at [Electromagnetic Field 2024](https://www.emfcamp.org/) about the joy of tiny tool kits, introducing the Tiny Toolkit Manifesto and this website.
 
