@@ -16,7 +16,7 @@ In a [custom 3d printed case by Drew Batchelor](https://drewbatchelor.com/portfo
 With a nice bendy silicone USC-C cable
 {{ figure(width=640, path="tools/pinecil-soldering-iron/pinecil_cable.jpg") }}
 
-And a UGREEN CD216 GaN charger, which can do the 20V 3A that will keep the Pinecil happy
+And a UGREEN CD216 GaN charger, which can do the 20V 3A that will keep the Pinecil happy.
 {{ figure(width=640, path="tools/pinecil-soldering-iron/pinecil_charger_ugreen_cd216.jpg") }}
 
 {{ figure(width=640, path="tools/pinecil-soldering-iron/pinecil_charger_specs.jpg") }}

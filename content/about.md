@@ -14,9 +14,13 @@ By the time they left the table that evening the domain was bought, the site up,
 first few tools had been photographed (and two members of pub staff thoroughly
 perplexed).
 
+Soon after, fellow tiny toolkit fan [Drew] joined the project, to add more tools and tool kits to the site and presented ["The Tiny Toolkit Manifesto"](https://tinytoolk.it/manifesto/) at Electromagnetic Field 2024. 
+
+
 ## Show us your toolkits!
 Do you have a tiny toolkit you'd like to talk to us about? Do you have a favourite tiny
 tool? Send us an email on `hi@tinytoolk.it`.
 
 [jarkman]: http://www.jarkman.co.uk/
 [samw]: https://wlcx.cc
+[Drew]: https://DrewBatchelor.com/
