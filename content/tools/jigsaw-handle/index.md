@@ -12,7 +12,7 @@ using a spare part from a Bosch jigsaw and a long bolt.
 
 I bought the part (1619P12765) online, and covered it in glue-lined heatshrink for a better grip. 
 
-Any 100mm M6 bolt will do, I used a 100mm titanum caphead bolt from AliExpress (about £7) for extra lightness and fanciness. Plus it actually has a nice knurl. 
+Any 100mm M6 bolt will do, I used a 100mm titanum caphead bolt from AliExpress (about 7 quid) for extra lightness and fanciness. Plus it actually has a nice knurl. 
 
 The back of the blade is intended to locate in a divot in the end of the bolt, and fortunately these bolts have a bit of a divot from the thread-rolling process. It works OK, but if I was energetic I'd cut the right shape into the end of the bolt on the lathe.
 
