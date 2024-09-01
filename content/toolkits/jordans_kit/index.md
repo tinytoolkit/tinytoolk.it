@@ -6,7 +6,7 @@ title = "Jordan's Tiny Toolkit"
 
 A tiny toolkit hard-case for building drones, fixing robots, and fiddling with Jet Suits.
 
-This is my everyday toolkit that lives in my backpack. The intention was not to create the most minimal, or all-encompassing toolkit, or to make something perfectly suited to any one specific task. It was made to be a baseline for most jobs or projects, that I can add to with another toolkit or project specific equipment as needed.
+This is my everyday toolkit that lives in my backpack. The intention was to make a baseline toolkit for most jobs or projects, that I can add to with another toolkit or project specific equipment as needed. Rather than to create the most minimal, or all-encompassing toolkit for one specific task.
 
 ## Case
 
@@ -16,21 +16,21 @@ The [Peli M50](https://peliproducts.co.uk/collections/micro) is a nice (but expe
 
 The hard case protects the contents, and a layer of foam keeps things from moving around too much.
 
-The downside of the hard-case (especially when this densely packed) is that things must be relatively well organised to make it close easily.
+The downside of the hard-case (especially when this densely packed) is that things must be relatively well organised to allow it close easily.
 
 ## Contents
 
 {{ figure(width=640, path="toolkits/jordans_kit/unpacked.jpg") }}
 
-- [Wera Tool-Check PLUS](https://www.amazon.co.uk/Wera-Tool-Check-Ratchet-Screwdriver-05056490001/dp/B00I8MYMT2)
+- [Wera Tool-Check PLUS](https://products.wera.de/en/ratchets_and_accessories_zyklop_mini_zyklop_mini_1_tool-check_plus.html)
 - Foam divider
-- [KNIPEX Cobra XS](https://www.amazon.co.uk/KNIPEX-K87-00-100-Tenaza/dp/B085WBGQNP)
+- [KNIPEX Cobra XS](https://tinytoolk.it/tools/knipex-xs/)
 - [TS101 Soldering Iron](https://shop.pimoroni.com/products/ts101-smart-soldering-iron?variant=40520177844307)
     - [BC2 Bevel Tip](https://shop.pimoroni.com/products/soldering-tip-for-ts100-soldering-iron?variant=39332711530579)
     - Included flexible USB-C cable
 - Small solder reel
 - [Generic Aliexpress small flush snips](https://www.aliexpress.com/item/1005005170407736.html)
-    - with 3D printed TPU cover/protector
+    - With 3D printed TPU cover/protector
 - [Sharpie Twin Tip](https://www.amazon.co.uk/gp/product/B00PHLBDC6)
 - [Wera 2054 Kraftform 3mm Hex](https://www.primetools.co.uk/product/wera-118072-kraftform-2054-micro-hexagon-screwdriver-3mm/)
 - [Wera 2054 Kraftform 2.5mm Hex](https://www.primetools.co.uk/product/wera-118070-kraftform-2054-micro-hexagon-screwdriver-2-5mm/)
@@ -40,7 +40,7 @@ The downside of the hard-case (especially when this densely packed) is that thin
 - [Ear plugs](https://www.amazon.co.uk/gp/product/B01NBU2R5N)
 - Cable ties (unknown source)
 - [Adhesive lined heat shrink](https://uk.rs-online.com/web/p/heat-shrink-tubing/4811797)
-    - doubles as cable tie organiser
+    - Doubles as cable tie organiser
 - [7mm hot glue stick](https://www.amazon.co.uk/ANSIO-Glue-Sticks-50pcs-Melt/dp/B09B799GZ2)
 - [15cm Ruler](https://www.amazon.co.uk/sourcing-map-Straight-Stainless-Measuring/dp/B07ZKP7GR1)
 - [USB-PD Decoy (12V)](https://www.aliexpress.com/item/1005004453538830.html)
@@ -49,7 +49,7 @@ The downside of the hard-case (especially when this densely packed) is that thin
 - [microSD card + SD adapter](https://www.amazon.co.uk/SanDisk-128GB-microSDXC-adapter-Performance/dp/B0B7NTY2S6)
 - [Victorinox Waiter](https://www.amazon.co.uk/Victorinox-Waiter-Swiss-Army-Knives/dp/B002J8VUEQ)
     - I almost never use the corkscrew so an alternative SAK would likely be a better fit, but this is the one I've had forever.
-- [iFixit Precision Driver](https://www.amazon.co.uk/gp/product/B08NWKMT8V)
+- [iFixit Precision Driver](https://tinytoolk.it/tools/ifixit-mako-4mm-screwdriver-kit/)
     - Driver and 5 bits from the Moray set.
 - [Third Hand](https://omnifixo.com/en-gb/collections/all)
     - 1x clip and magnetic foot, taken from the OF-M4 kit.
@@ -63,7 +63,7 @@ The downside of the hard-case (especially when this densely packed) is that thin
     - M2.5 nuts + bolts
     - M3 nuts + bolts
     - M4 nuts + bolts
-    - wood screws
+    - Wood screws
     - 2020 & 3030 T-nuts
 - Misc electronics bag
     - ~300mm [28AWG flexible silicone stranded wire](https://www.amazon.co.uk/gp/product/B07G712KWJ)
@@ -73,14 +73,15 @@ The downside of the hard-case (especially when this densely packed) is that thin
     - 2.54mm pin header
     - Small ESP32 ([Adafruit QTPy](https://shop.pimoroni.com/products/adafruit-qt-py-esp32-s2-wifi-dev-board-with-stemma-qt?variant=39620155932755)) tucked inside big bit of heatshrink
 
-
 ## To add
 
-- tape, ideally VHB but I haven't found a nice way to store a small amount.
-- multimeter, but I can't find one small enough to fit.
+Tools and things I am considering adding in the future:
+
+- Tape, ideally VHB but I haven't found a nice way to store a small amount.
+- Multimeter, but I can't find one small enough to fit.
 - 65W+ USB-C charger (for soldering iron/phone/laptop), it'd take up a lot of room, and I almost certainly already have one with me.
-- lighter, mostly for heatshrink (but the stem of the soldering iron does a good enough job).
-- digital caliper.
-- torch, but I usually have one attached to my backpack.
-- soldering tip cleaner - maybe something in a small soldering tin.
+- Lighter, mostly for heatshrink (but the stem of the soldering iron does a good enough job).
+- Digital caliper.
+- Torch, but I usually have one attached to my backpack.
+- Soldering tip cleaner - maybe something in a small soldering tin.
 - USB-C data cable, but I almost always have one with me anyway.
