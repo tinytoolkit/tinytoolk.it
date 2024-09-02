@@ -2,6 +2,7 @@
 title = "Tiny prybar"
 [taxonomies]
 by = ["jarkman"]
+tags = ["things-that-pry"]
 +++
 
 A tiny home-made prybar, for all the things screwdrivers are not for.

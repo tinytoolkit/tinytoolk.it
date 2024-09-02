@@ -1,7 +1,7 @@
 +++
 title = "Soldering Iron Stand"
 [taxonomies]
-tags = ["things-that-hold"]
+tags = ["things-that-solder"]
 by = ["jarkman"]
 +++
 

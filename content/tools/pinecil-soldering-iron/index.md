@@ -2,7 +2,7 @@
 title = "Pinecil soldering iron"
 [taxonomies]
 by = ["jarkman"]
-tags = ["things-that-hold"]
+tags = ["things-that-solder", "things-that-hold"]
 +++
 
 [The mighty Pinecil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)

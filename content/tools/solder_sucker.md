@@ -1,7 +1,7 @@
 +++
 title = "Engineer SS02 solder sucker"
 [taxonomies]
-tags = ["things-that-hold"]
+tags = ["things-that-solder"]
 by = ["jarkman"]
 +++
 
