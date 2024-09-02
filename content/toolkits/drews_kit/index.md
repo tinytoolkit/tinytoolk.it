@@ -51,7 +51,7 @@ An ultra portable toolkit for assembling and repairing electro-mechanical produc
 - Hemostat grippers
 - [Heavy Duty medical scissors](@/tools/Surgimax_tough_cut_scissors.md)
 - A lighter for heatshrink and string
-- [Knipex Cobra XS 87-125 pliers wrench](@tools/knipex-xs/index.md)
+- [Knipex Cobra XS 87-125 pliers wrench](@/tools/knipex-xs/index.md)
 
 ### Layer 4 - Electronics & Small Parts
 
