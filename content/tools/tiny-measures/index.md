@@ -37,3 +37,10 @@ A 1.5m flexible fiberglass tape measure in a tiny, tiny package
 A compass with a built-in 0.5mm mechanical pencil.
 
 {{ figure(width=640, path="tools/tiny-measures/sharpest_compass.jpg") }}
+
+# 70mm vernier caliper
+
+A tiny (and not very high quality)(but handy) vernier caliper. The jaws are not actually 100% parallel and the internal jaws are out by a third of a millimeter. I might fix that with a file.
+But, they did only cost a tenner from AliExpress. A very similar-looking model is sold by Moore and Wright for 25 quid, and that is probably better made and a better idea.
+
+{{ figure(width=640, path="tools/tiny-measures/70mm_vernier_caliper.jpg") }}

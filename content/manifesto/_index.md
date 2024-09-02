@@ -23,4 +23,10 @@ title = "Tiny Toolkit Manifesto"
 
 [Drew](https://drewbatchelor.com/) wrote and presented a talk at [Electromagnetic Field 2024](https://www.emfcamp.org/) about the joy of tiny tool kits, introducing the Tiny Toolkit Manifesto and this website.
 
-When the video of that talk is live, we will add it here. In the meantime, here is [the spreadsheet](TinyToolkit.xlsx) mentioned in the talk which has a reasonable aproximation of Drew's product engineering and repair kit and of Jarkman's Robot fixing kit.
+<iframe style="aspect-ratio: 16/9; width: 100%; margin: auto; display: block;" src="https://media.ccc.de/v/emf2024-265-the-tiny-tool-kit-manifesto/oembed" frameborder="0" allowfullscreen></iframe>
+
+The talk is also [available on YouTube][youtubelink] if that's your preference.
+
+Here is [the spreadsheet](TinyToolkit.xlsx) mentioned in the talk which has a reasonable aproximation of Drew's product engineering and repair kit and of Jarkman's Robot fixing kit.
+
+[youtubelink]: https://www.youtube.com/watch?v=2sTDBSoWou0
