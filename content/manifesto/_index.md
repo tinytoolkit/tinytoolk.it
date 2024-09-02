@@ -27,6 +27,8 @@ title = "Tiny Toolkit Manifesto"
 
 The talk is also [available on YouTube][youtubelink] if that's your preference.
 
+[{{ figure(width=640, path="manifesto/TinyToolKitTalkEMF.jpg") }}](TinyToolkit.xlsx)
+
 Here is [the spreadsheet](TinyToolkit.xlsx) mentioned in the talk which has a reasonable aproximation of Drew's product engineering and repair kit and of Jarkman's Robot fixing kit.
 
 [youtubelink]: https://www.youtube.com/watch?v=2sTDBSoWou0
