@@ -16,19 +16,16 @@ title = "Tiny Toolkit Manifesto"
 11. Tiny tool kits connect people & things.       
 12. The best tool is your brain.
 
-
 ## Tiny Toolkit Talk at EMF 2024
-
-{{ figure(width=640, path="manifesto/TinyToolKitTalkEMF.jpg") }}
-
-[Drew](https://drewbatchelor.com/) wrote and presented a talk at [Electromagnetic Field 2024](https://www.emfcamp.org/) about the joy of tiny tool kits, introducing the Tiny Toolkit Manifesto and this website.
 
 <iframe style="aspect-ratio: 16/9; width: 100%; margin: auto; display: block;" src="https://media.ccc.de/v/emf2024-265-the-tiny-tool-kit-manifesto/oembed" frameborder="0" allowfullscreen></iframe>
 
-The talk is also [available on YouTube][youtubelink] if that's your preference.
+[Drew](https://drewbatchelor.com/) wrote and presented a talk at [Electromagnetic Field 2024](https://www.emfcamp.org/) about the joy of tiny tool kits, introducing the Tiny Toolkit Manifesto and this website. The talk is also [available on YouTube][youtubelink] if that's your preference.
 
-[{{ figure(width=640, path="manifesto/TinyToolKitTalkEMF.jpg") }}](TinyToolkit.xlsx)
+[{{ figure(width=640, path="manifesto/Spreadsheet.png") }}](TinyToolkit.xlsx)
 
 Here is [the spreadsheet](TinyToolkit.xlsx) mentioned in the talk which has a reasonable aproximation of Drew's product engineering and repair kit and of Jarkman's Robot fixing kit.
+
+{{ figure(width=640, path="manifesto/TinyToolKitTalkEMF.jpg") }}
 
 [youtubelink]: https://www.youtube.com/watch?v=2sTDBSoWou0
