@@ -31,29 +31,30 @@ The downside of the hard-case (especially when this densely packed) is that thin
 - Small solder reel
 - [Generic Aliexpress small flush snips](https://www.aliexpress.com/item/1005005170407736.html)
     - With 3D printed TPU cover/protector
-- [Sharpie Twin Tip](https://www.amazon.co.uk/gp/product/B00PHLBDC6)
+- Sharpie Twin Tip
 - [Wera 2054 Kraftform 3mm Hex](https://www.primetools.co.uk/product/wera-118072-kraftform-2054-micro-hexagon-screwdriver-3mm/)
 - [Wera 2054 Kraftform 2.5mm Hex](https://www.primetools.co.uk/product/wera-118070-kraftform-2054-micro-hexagon-screwdriver-2-5mm/)
 - [Wera 2054 Kraftform 2mm Hex](https://www.primetools.co.uk/product/wera-118068-kraftform-2054-micro-hexagon-screwdriver-2mm/)
-- [Reverse Tweezers](https://www.amazon.co.uk/gp/product/B0CCTPWK7S)
-- [Cheap Precision Tweezers](https://www.amazon.co.uk/ZHIYE-Anti-Static-Electronics-Jewelry-making-Laboratory/dp/B07RZ4MJ62)
-- [Ear plugs](https://www.amazon.co.uk/gp/product/B01NBU2R5N)
-- Cable ties (unknown source)
+- Reverse Tweezers
+- Cheap Precision Tweezers
+- Ear plugs
+- Cable ties
 - [Adhesive lined heat shrink](https://uk.rs-online.com/web/p/heat-shrink-tubing/4811797)
     - Doubles as cable tie organiser
-- [7mm hot glue stick](https://www.amazon.co.uk/ANSIO-Glue-Sticks-50pcs-Melt/dp/B09B799GZ2)
-- [15cm Ruler](https://www.amazon.co.uk/sourcing-map-Straight-Stainless-Measuring/dp/B07ZKP7GR1)
+- 7mm hot glue stick
+- 15cm Ruler
 - [USB-PD Decoy (12V)](https://www.aliexpress.com/item/1005004453538830.html)
     - XT30 directly soldered to the back.
     - XT30 to 2.54mm connector.
-- [microSD card + SD adapter](https://www.amazon.co.uk/SanDisk-128GB-microSDXC-adapter-Performance/dp/B0B7NTY2S6)
-- [Victorinox Waiter](https://www.amazon.co.uk/Victorinox-Waiter-Swiss-Army-Knives/dp/B002J8VUEQ)
+- microSD card + SD adapter
+    - SanDisk 128GB
+- Victorinox Waiter
     - I almost never use the corkscrew so an alternative SAK would likely be a better fit, but this is the one I've had forever.
 - [iFixit Precision Driver](https://tinytoolk.it/tools/ifixit-mako-4mm-screwdriver-kit/)
     - Driver and 5 bits from the Moray set.
 - [Third Hand](https://omnifixo.com/en-gb/collections/all)
     - 1x clip and magnetic foot, taken from the OF-M4 kit.
-- [Li-Po Voltage Checker/Alarm](https://www.amazon.co.uk/gp/product/B0926122J3)
+- Li-Po Voltage Checker/Alarm
 - Small carabiner (unknown source)
 - [USB-C mini right-angle extension](https://www.aliexpress.com/item/1005003238859317.html)
     - I used to have a micro-USB version too, but it's being borrowed by a project.
@@ -66,7 +67,7 @@ The downside of the hard-case (especially when this densely packed) is that thin
     - Wood screws
     - 2020 & 3030 T-nuts
 - Misc electronics bag
-    - ~300mm [28AWG flexible silicone stranded wire](https://www.amazon.co.uk/gp/product/B07G712KWJ)
+    - ~300mm 28AWG flexible silicone stranded wire
     - misc heatshrink (mostly RS adhesive lined or clear)
     - XT60 connector pair
     - XT30 connector pair
