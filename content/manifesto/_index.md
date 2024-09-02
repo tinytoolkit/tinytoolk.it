@@ -22,7 +22,7 @@ title = "Tiny Toolkit Manifesto"
 
 [Drew](https://drewbatchelor.com/) wrote and presented a talk at [Electromagnetic Field 2024](https://www.emfcamp.org/) about the joy of tiny tool kits, introducing the Tiny Toolkit Manifesto and this website. The talk is also [available on YouTube][youtubelink] if that's your preference.
 
-[{{ figure(width=640, path="manifesto/Spreadsheet.png") }}](TinyToolkit.xlsx)
+[{{ figure(width=640, path="manifesto/Spreadsheet.jpg") }}](TinyToolkit.xlsx)
 
 Here is [the spreadsheet](TinyToolkit.xlsx) mentioned in the talk which has a reasonable aproximation of Drew's product engineering and repair kit and of Jarkman's Robot fixing kit.
 
