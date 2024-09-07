@@ -1,6 +1,9 @@
 {% set image = resize_image(path=path, width=width, op="fit_width") %}
+{% set image_orig = resize_image(path=path, height=6000, width=6000, op="fit") %}
 <figure>
-    <img src="{{ image.url }}" />
+    <a href="{{ image_orig.url }}">
+      <img src="{{ image.url }}" />
+    </a>
     {% if caption %}
     <figcaption>{{ caption }}</figcaption>
     {% endif %}
