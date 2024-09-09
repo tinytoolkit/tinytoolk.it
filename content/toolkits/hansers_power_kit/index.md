@@ -57,7 +57,7 @@ It is an additional kit that is only in use with [Hanser's Main Tiny Toolkit](@/
 - Power inputs – Mechanical [poka-yoke](https://en.wikipedia.org/wiki/Poka-yoke) hardened to make sure, only one of both inputs can be used.
     - Lenovo 20V power socket
     - Self designed and 3D-printed [battery socket [Printables]](https://www.printables.com/de/model/1000820-powerx-change-power-socket-to-mount-to-bopla-et-21)
-        - Screwed to the BOPLA case with metall screws in inlaid metal nuts in the 3D-print
+        - Screwed to the BOPLA case via metal screws with ISO metric screw thread to inlaid metal nuts inside the 3D-print
 
 {{ figure(width=640, path="toolkits/hansers_power_kit/psb_front.jpg", caption="Front with output sockets and DPS5005") }}
 {{ figure(width=640, path="toolkits/hansers_power_kit/psb_side_2.jpg", caption="Side with coaxial power connector") }}
