@@ -1,4 +1,6 @@
 +++
+date = "2024-02-18"
+updated = "2024-09-02"
 title = "Tiny prybar"
 [taxonomies]
 by = ["jarkman"]

@@ -1,4 +1,5 @@
 +++
+date = "2024-06-30"
 title = "Jigsaw Handle"
 [taxonomies]
 tags = ["things-that-cut"]
