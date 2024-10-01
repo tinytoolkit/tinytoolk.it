@@ -1,4 +1,6 @@
 +++
+date = "2023-11-27"
+updated = "2024-09-02"
 title = "Soldering Iron Stand"
 [taxonomies]
 tags = ["things-that-solder"]

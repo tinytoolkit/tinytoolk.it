@@ -1,4 +1,6 @@
 +++
+date = "2023-12-31"
+updated = "2024-02-18"
 title = "Jarkman's Flexure Kit"
 +++
 

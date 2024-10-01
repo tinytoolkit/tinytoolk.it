@@ -1,4 +1,6 @@
 +++
+date = "2024-01-29"
+updated = "2024-01-30"
 title = "ANENG A3008 Multimeter"
 [taxonomies]
 by = ["Drew"]

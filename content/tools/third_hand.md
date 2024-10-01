@@ -1,4 +1,6 @@
 +++
+date = "2023-12-03"
+updated = "2024-01-01"
 title = "Third Hand"
 [taxonomies]
 tags = ["things-that-hold"]

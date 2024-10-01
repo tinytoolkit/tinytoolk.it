@@ -1,4 +1,6 @@
 +++
+date = "2023-12-31"
+updated = "2024-09-02"
 title = "Victorinox Cybertool M"
 [taxonomies]
 tags = ["things-that-cut", "things-that-screw", "things-that-hold", "things-that-pry"]
