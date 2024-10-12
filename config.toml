@@ -9,6 +9,8 @@ build_search_index = true
 
 theme = "anemone"
 
+generate_feeds = true
+
 taxonomies = [
   { name = "tags" },
   { name = "by" },

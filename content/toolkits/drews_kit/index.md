@@ -1,4 +1,6 @@
 +++
+date = "2024-03-12"
+updated = "2024-09-01"
 title = "Drew's Tiny Toolkit"
 [taxonomies]
 by = ["Drew"]

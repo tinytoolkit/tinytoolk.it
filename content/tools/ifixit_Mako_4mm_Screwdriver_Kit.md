@@ -1,4 +1,6 @@
 +++
+date = "2024-01-01"
+updated = "2024-01-02"
 title = "iFixit Mako Compact Kit"
 [taxonomies]
 tags = ["things-that-screw"]

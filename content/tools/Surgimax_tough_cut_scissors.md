@@ -1,4 +1,5 @@
 +++
+date = "2024-01-02"
 title = "Surgimax 16cm tough cut scissors"
 [taxonomies]
 tags = ["things-that-cut"]

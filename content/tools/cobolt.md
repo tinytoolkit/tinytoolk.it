@@ -1,4 +1,5 @@
 +++
+date = "2024-03-02"
 title = "Knipex CoBolt tiny bolt cutters"
 [taxonomies]
 tags = ["things-that-cut"]

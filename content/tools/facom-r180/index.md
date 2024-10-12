@@ -1,4 +1,6 @@
 +++
+date = "2024-01-03"
+updated = "2024-03-07"
 title = "Facom R.180PB 180° flexible head 1/4\" compact ratchet"
 [taxonomies]
 tags = ["things-that-turn"]
