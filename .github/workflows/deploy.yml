@@ -10,7 +10,7 @@ jobs:
         with:
           lfs: true
       - name: build_and_deploy
-        uses: shalzz/zola-deploy-action@v0.17.2
+        uses: shalzz/zola-deploy-action@v0.19.2
         env:
           BUILD_ONLY: true
       - name: upload_artifact
