@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{% if page %}{{ page.lang }}{% else %}{{ config.default_language }}{% endif %}">
+<head>
+    {% include "head.html" %}
+    <script defer data-domain="tinytoolk.it" src="https://plausible.hacksrus.org/js/script.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+      <header>
+          {% include "header.html" %}
+      </header>
+      <main>
+          {% block content %}
+          {% endblock content %}
+      </main>
+      <footer>
+          {% include "footer.html" %}
+      </footer>
+    </div>
+</body>
+</html>
