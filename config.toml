@@ -10,6 +10,10 @@ build_search_index = true
 theme = "anemone"
 
 generate_feeds = true
+feed_filenames = [
+  "atom.xml", 
+  "rss.xml"
+]
 
 taxonomies = [
   { name = "tags" },
