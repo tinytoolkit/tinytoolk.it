@@ -4,7 +4,7 @@ updated = "2024-01-30"
 title = "ANENG A3008 Multimeter"
 [taxonomies]
 by = ["Drew"]
-tags = ["things-that-Measure"]
+tags = ["things-that-measure"]
 +++
 
 {{ figure(width=640, path="tools/A3008Multimeter.jpg") }}
@@ -27,7 +27,7 @@ Yes. This multimeter is accurate enough and is often enough of a tool to help fi
 
 **Core multimeter functions:**
 
-* DC voltage, AC voltage and resistance with auto mode-select and auto-range. 
+* DC voltage, AC voltage and resistance with auto mode-select and auto-range.
 
 **Occasional use modes:**
 

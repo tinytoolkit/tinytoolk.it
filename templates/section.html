@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ section.title }}</h1>
+
+{{ section.content | safe }}
+
+{% if paginator %}
+{% set pages = paginator.pages %}
+{% else %}
+{% set pages = section.pages %}
+{% endif %}
+
+{% if section.extra.by_tag %}
+{% set tags = get_taxonomy(kind="tags") %}
+{% for tag in tags.items %}
+    <h2>{{ tag.name }}</h2>
+    <ul class="title-list">
+        {% for page in tag.pages %}
+            <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+        {% endfor %}
+    </ul>
+{% endfor %}
+{% else %}
+    <ul class="title-list">
+    {% for page in pages %}
+        <li>
+            <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+{% endif %}
+
+{% if paginator %}
+<div class="accent-data">{% if paginator.previous %}<a href="{{ paginator.first }}">⥶</a> &nbsp <a href="{{ paginator.previous }}"><</a>{% endif %} &nbsp {{ paginator.current_index }} / {{ paginator.number_pagers }} &nbsp {% if paginator.next %}<a href="{{ paginator.next }}">></a> &nbsp <a href="{{ paginator.last }}">⥸</a>{% endif %}</div>
+{% endif %}
+{% endblock content %}
