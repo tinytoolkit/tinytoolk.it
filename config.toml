@@ -33,4 +33,5 @@ header_nav = [
   { url = "/tools", name_en = "tools"},
   { url = "/manifesto", name_en = "manifesto"}, 
   { url = "/about", name_en = "about"},
+  { url = "https://hacksrus.xyz/tinytoolkits", name_en = "fedi" }
 ]
