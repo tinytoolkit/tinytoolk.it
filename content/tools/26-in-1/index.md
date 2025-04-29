@@ -2,7 +2,7 @@
 date = "2024-02-18"
 title = "Wiha 26-in-one screwdriver"
 [taxonomies]
-tags = ["things-that-turn"]
+tags = ["things-that-screw"]
 by = ["jarkman"]
 [extra]
 link = "https://www.facom.eu/uk-en/generaltooling/productdetails/hierarchy/7180/group/R.180PB/"
