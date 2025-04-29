@@ -3,8 +3,7 @@ date = "2024-02-18"
 title = "Knipex Cobra Water Pump Pliers"
 [taxonomies]
 tags = ["things-that-turn"]
-by = ["jarkman"]
-by = ["Drew"]
+by = ["jarkman","Drew"]
 
 +++
 

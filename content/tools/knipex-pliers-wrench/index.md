@@ -3,8 +3,7 @@ date = "2024-02-18"
 title = "Knipex Pliers Wrenches"
 [taxonomies]
 tags = ["things-that-turn"]
-by = ["jarkman"]
-by = ["Drew"]
+by = ["jarkman","Drew"]
 +++
 
 [Knipex Pliers Wrench XS 86-00-100](https://www.knipex.com/products/pipe-wrenches-and-water-pump-pliers/pliers-wrenches-xs-pliers-and-a-wrench-in-a-single-tool/pliers-wrenches-xs-pliers-and-wrench-single-tool/8604100) - a parallel-jaw pliers/wrench/press
