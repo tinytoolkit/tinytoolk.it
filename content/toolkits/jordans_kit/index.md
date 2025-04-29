@@ -24,7 +24,7 @@ The downside of the hard-case (especially when this densely packed) is that thin
 
 - [Wera Tool-Check PLUS](https://products.wera.de/en/ratchets_and_accessories_zyklop_mini_zyklop_mini_1_tool-check_plus.html)
 - Foam divider
-- [KNIPEX Cobra XS](https://tinytoolk.it/tools/knipex-xs/)
+- [KNIPEX Cobra XS](https://tinytoolk.it/tools/knipex-cobra/)
 - [TS101 Soldering Iron](https://shop.pimoroni.com/products/ts101-smart-soldering-iron?variant=40520177844307)
     - [BC2 Bevel Tip](https://shop.pimoroni.com/products/soldering-tip-for-ts100-soldering-iron?variant=39332711530579)
     - Included flexible USB-C cable
