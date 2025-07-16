@@ -10,7 +10,7 @@ link = "https://www.facom.eu/uk-en/generaltooling/productdetails/hierarchy/7180/
 
 All the bits in one screwdriver! There's room for Pozi, Phillips, Allen, Torx, and slot. Wiha sell this with various selections of bits but none of the selections are ideal, so you might end up mix-and-matching with some of the refill packs.
 
-It is also labelled differently in the EU and the USA. I [bought mine from Amazon where it was labelled as a Wiha SB 3803-04021 LiftUp 26one EU](https://www.amazon.co.uk/dp/B084HLPS54/ref=pe_27063361_485629781_TE_item?th=1)
+It is also labelled differently in the EU and the USA. I [in UK it was labelled as a Wiha  LiftUp 26one 43895](https://wiha.com/int/en/tools/highlights/all-top-sellers/screwdriver-with-bit-magazine-liftup-26one/43895)
 
 The only place I could find to buy the refill packs was [Digikey](https://www.digikey.co.uk/en/products/detail/wiha/77784/11512945) - part codes 77780 to 77784.
 
