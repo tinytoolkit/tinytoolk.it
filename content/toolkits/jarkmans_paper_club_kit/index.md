@@ -2,11 +2,13 @@
 date = "2023-12-31"
 updated = "2024-02-18"
 title = "Jarkman's Paper Club Kit"
+[extra]
+titleimage = "toolkits/jarkmans_paper_club_kit/unpacked.jpg"
 +++
 
-{{ figure(width=640, path="toolkits/jarkmans_paper_club_kit_closed.jpg") }}
-{{ figure(width=640, path="toolkits/jarkmans_paper_club_kit_open.jpg") }}
-{{ figure(width=640, path="toolkits/jarkmans_paper_club_kit_unpacked.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_paper_club_kit/closed.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_paper_club_kit/open.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_paper_club_kit/unpacked.jpg") }}
 
 At Paper Club, we make things out of paper. Cut, folded, taped, glued, tiny and large. This is the kit I take.
 

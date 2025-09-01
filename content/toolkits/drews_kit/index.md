@@ -4,6 +4,8 @@ updated = "2024-09-01"
 title = "Drew's Tiny Toolkit"
 [taxonomies]
 by = ["Drew"]
+[extra]
+titleimage = "toolkits/drews_kit/layer_4_unpacked.jpg"
 +++
 
 An ultra portable toolkit for assembling and repairing electro-mechanical products, arduino projects, robots and 3D printers.

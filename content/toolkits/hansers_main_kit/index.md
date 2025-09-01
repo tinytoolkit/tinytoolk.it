@@ -3,6 +3,8 @@ date = "2024-09-05"
 title = "Hanser's Main Tiny Toolkit"
 [taxonomies]
 by = ["Hanser"]
+[extra]
+titleimage = "toolkits/hansers_main_kit/opened.jpg"
 +++
 
 My Tiny Toolkit which either lies at home on it's specified place on the counter (when I am at home) or is with me in my backpack.

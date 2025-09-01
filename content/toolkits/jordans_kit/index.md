@@ -1,5 +1,7 @@
 +++
 title = "Jordan's Tiny Toolkit"
+[extra]
+titleimage = "toolkits/jordans_kit/unpacked.jpg"
 +++
 
 {{ figure(width=640, path="toolkits/jordans_kit/packed.jpg") }}
