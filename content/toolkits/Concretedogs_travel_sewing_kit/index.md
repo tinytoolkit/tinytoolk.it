@@ -22,7 +22,7 @@ Tiny sewing kits are super useful to carry, I make these small sewn cases which 
 
 The case is a simple pocket with foldover lid, inside the lid I line with a small rectangle of felt.
 The felt gives a place for storage of pins and needles.
-A small length of paracord is seen into the case back which can be used as a tie.
+A small length of paracord is sewn into the case back which can be used as a tie.
 Optionally my original kit has a small piece of cord stitched to the inside which I clip the swiss army knife to to prevent loss in the field.
 
 ## Contents
