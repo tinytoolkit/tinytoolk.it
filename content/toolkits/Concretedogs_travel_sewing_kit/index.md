@@ -9,9 +9,9 @@ Tiny sewing kits are super useful to carry, I make these small sewn cases which 
 
 ## Case
 
-{{ figure(width=640, path="toolkits/Concretedogs_travel_sewing_kit/original_in_hand.jpg", caption="The original kit") }}
+{{ figure(width=640, path="toolkits/Concretedogs_travel_sewing_kit/original_in_hand_cropped.jpg", caption="The original kit") }}
 
-{{ figure(width=640, path="toolkits/Concretedogs_travel_sewing_kit/main.jpg", caption="My usual contents") }}
+{{ figure(width=640, path="toolkits/Concretedogs_travel_sewing_kit/main_rotated.jpg", caption="My usual contents") }}
 
 
 {{ figure(width=640, path="toolkits/Concretedogs_travel_sewing_kit/back_paracord.jpg", caption="A few hand stitches through a short length of paracord make a good tie wrap") }}
