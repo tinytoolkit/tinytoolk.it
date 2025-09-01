@@ -1,5 +1,5 @@
 +++
-date = "2025-08-28"
+date = "2025-09-01"
 title = "Concretedogs Travel Sewing Kits"
 [taxonomies]
 by = ["Concretedog"]
@@ -23,17 +23,17 @@ Tiny sewing kits are super useful to carry, I make these small sewn cases which 
 The case is a simple pocket with foldover lid, inside the lid I line with a small rectangle of felt.
 The felt gives a place for storage of pins and needles.
 A small length of paracord is sewn into the case back which can be used as a tie.
-Optionally my original kit has a small piece of cord stitched to the inside which I clip the swiss army knife to to prevent loss in the field.
+Optionally my original kit has a small piece of cord stitched to the inside which I clip the swiss army knife too to prevent loss in the field.
 
 ## Contents
 
 
-Wonderclips x 6 minimum. <br>
-A small pair folding scissors<br>
-Various bits of thread wrapped around carboard scraps to reduce size <br>
-Various pins and needles <br>
-Classic SD Swiss Army Knife <br>
-A small amount of gore tex seam tape, this irons on, for field expedient repair you can use the lighter and the knife blade to patch small holes <br>
-A small roll of iron on interfacing, again great for field expedient repair of small rips etc.
-A stitch ripper/Seam Ripper/Quick Unpick tool <br>
-A collection of buttons. <br>
+- Wonderclips x 6 minimum. <br>
+- A small pair folding scissors<br>
+- Various bits of thread wrapped around carboard scraps to reduce size <br>
+- Various pins and needles <br>
+- Classic SD Swiss Army Knife <br>
+- A small amount of gore tex seam tape, this irons on, for field expedient repair you can use the lighter and the knife blade to patch small holes <br>
+- A small roll of iron on interfacing, again great for field expedient repair of small rips etc.
+- A stitch ripper/Seam Ripper/Quick Unpick tool <br>
+- A collection of buttons. <br>
