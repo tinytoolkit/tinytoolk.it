@@ -2,6 +2,8 @@
 title = "Pierre's Bike Tiny Toolkit"
 [taxonomies]
 by = ["Equinoxefr"]
+[extra]
+titleimage = "toolkits/pierre_bike_kit/kit_exploded.jpg"
 +++
 
 A simple toolkit to fix my bike on the move. I keep it with me everyday whether for commuting or for long bike trips.

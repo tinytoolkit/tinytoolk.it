@@ -3,6 +3,8 @@ date = "2024-09-05"
 title = "Hanser's PC Toolkit"
 [taxonomies]
 by = ["Hanser"]
+[extra]
+titleimage = "toolkits/hansers_pc_kit/big_compartment.jpg"
 +++
 
 Toolkit that comes in handy when you want to

@@ -1,6 +1,9 @@
 +++
 date = "2024-02-18"
 title = "Jarkman's Zyklop Kit"
+slug = "zyklop"
+[extra]
+titleimage = "toolkits/jarkmans_zyklop_kit/zyklop2.jpg"
 +++
 
 This started life as a [Wera Kraftform Kompakt Zyklop Speed, 26 pieces, 05051045001](https://products.wera.de/en/ratchets_and_accessories_the_zyklop_ratchets_the_zyklop_ratchets_1_4_the_zyklop_speed_ratchet_1_4_kraftform_kompakt_zyklop.html)
@@ -16,10 +19,10 @@ I use this all the time, when I need to drive a bolt (usually a Pozi or Allen) a
 
 You can't get that Britool part any more, and it's hard to even find a name for this tool. Here's an [Amazon link for a similar sort of thing](https://www.amazon.co.uk/Kozelo-Breaker-Bar-Extension-Mechanical/dp/B0C6KF1128).
 
-{{ figure(width=640, path="toolkits/zyklop/zyklop1.jpg") }}
-{{ figure(width=640, path="toolkits/zyklop/zyklop2.jpg") }}
-{{ figure(width=640, path="toolkits/zyklop/zyklop3.jpg") }}
-{{ figure(width=640, path="toolkits/zyklop/zyklop4.jpg") }}
-{{ figure(width=640, path="toolkits/zyklop/zyklop5.jpg") }}
-{{ figure(width=640, path="toolkits/zyklop/zyklop6.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_zyklop_kit/zyklop1.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_zyklop_kit/zyklop2.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_zyklop_kit/zyklop3.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_zyklop_kit/zyklop4.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_zyklop_kit/zyklop5.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_zyklop_kit/zyklop6.jpg") }}
 

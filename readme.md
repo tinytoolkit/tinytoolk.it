@@ -1,4 +1,5 @@
-In this repo we enjoy tiny toolkits
+In this repo we enjoy tiny toolkits.
+It is the source of the [tinytoolk.it](https://tinytoolk.it) website.
 
 ## How does it work
 We use a static site generator ([zola]) to turn markdown files and images into html.

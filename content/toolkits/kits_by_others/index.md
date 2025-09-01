@@ -1,6 +1,8 @@
 +++
 date = "2024-09-02"
 title = "Tiny Tool Kits in the Wild"
+[extra]
+titleimage = "toolkits/kits_by_others/dan1.jpeg"
 +++
 
 Here are some tiny tool kits we have spotted in the wild.  

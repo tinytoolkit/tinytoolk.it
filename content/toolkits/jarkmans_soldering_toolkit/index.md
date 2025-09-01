@@ -2,10 +2,12 @@
 date = "2023-12-03"
 updated = "2024-01-02"
 title = "Jarkman's Soldering Toolkit"
+[extra]
+titleimage = "toolkits/jarkmans_soldering_toolkit/unpacked.jpg"
 +++
 
-{{ figure(width=640, path="toolkits/jarkmans_soldering_toolkit_closed.jpg") }}
-{{ figure(width=640, path="toolkits/jarkmans_soldering_toolkit_unpacked.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_soldering_toolkit/closed.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_soldering_toolkit/unpacked.jpg") }}
 
 The basics for in-the-field soldering, in as small a kit as I can manage.
 

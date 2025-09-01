@@ -2,8 +2,11 @@
 date = "2024-02-10"
 updated = "2024-02-18"
 title = "Jarkman's Robot Fixing Toolkit"
+slug = "black_kit"
 [taxonomies]
 by = ["jarkman"]
+[extra]
+titleimage = "toolkits/jarkmans_robot_fixing_toolkit/layer_2_packed.jpg"
 +++
 
 An ever-growing little toolkit to take along when robots might need fixing. Mostly focused on small mechanical and electronic work. 
@@ -12,7 +15,7 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 ## Case
 
-{{ figure(width=640, path="toolkits/black_kit/closed.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_robot_fixing_toolkit/closed.jpg") }}
 
 [Lihit Lab Book-Type Pen Case Large, LL00005](https://cultpens.com/products/lihit-lab-triple-pen-case)
 
@@ -21,8 +24,8 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 ### Layer 1
 
-{{ figure(width=640, path="toolkits/black_kit/layer_1_packed.jpg") }}
-{{ figure(width=640, path="toolkits/black_kit/layer_1_unpacked.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_robot_fixing_toolkit/layer_1_packed.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_robot_fixing_toolkit/layer_1_unpacked.jpg") }}
 
 - Wera Kraftform Micro drivers, hex and ball hex, straight, Phillips/JIS
 - Wera 5.5mm nut driver for M3 nuts
@@ -33,8 +36,8 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 ### Layer 2
 
-{{ figure(width=640, path="toolkits/black_kit/layer_2_packed.jpg") }}
-{{ figure(width=640, path="toolkits/black_kit/layer_2_unpacked.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_robot_fixing_toolkit/layer_2_packed.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_robot_fixing_toolkit/layer_2_unpacked.jpg") }}
 
 - 4mm hex bits and drivers. Bits from various sets, [3D printed case and drivers](https://jarkman.co.uk/catalog/fripperies/4mmset.htm)
 - Black plastic meter box key
@@ -54,8 +57,8 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 ### Layer 3
 
-{{ figure(width=640, path="toolkits/black_kit/layer_3_packed.jpg") }}
-{{ figure(width=640, path="toolkits/black_kit/layer_3_unpacked.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_robot_fixing_toolkit/layer_3_packed.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_robot_fixing_toolkit/layer_3_unpacked.jpg") }}
 
 - Black plastic tweezers
 - Cross-locking stainless tweezers (very handy for holding wires or connectors while soldering)
@@ -84,8 +87,8 @@ It weights too much (2kg) and is at the limits of what this case can hold. Maybe
 
 ### Layer 4
 
-{{ figure(width=640, path="toolkits/black_kit/layer_4_packed.jpg") }}
-{{ figure(width=640, path="toolkits/black_kit/layer_4_unpacked.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_robot_fixing_toolkit/layer_4_packed.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_robot_fixing_toolkit/layer_4_unpacked.jpg") }}
 
 - 240 grit wet&dry paper
 - spare battery for multimeter

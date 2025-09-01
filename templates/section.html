@@ -25,7 +25,12 @@
     <ul class="title-list">
     {% for page in pages %}
         <li>
-            <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+            <a href="{{ page.permalink | safe }}">{{ page.title }}
+            {% if page.extra.titleimage %}
+                {% set thumbnail = resize_image(path=page.extra.titleimage, width=200, height=200, op="fit") %}
+                        <br> <img src={{ thumbnail.url }} />
+            {% endif %}
+            </a>
         </li>
     {% endfor %}
     </ul>

@@ -3,7 +3,7 @@ title = "Tiny Toolkits"
 +++
 # Welcome to Tiny Toolkits
 
-{{ figure(width=640, path="toolkits/black_kit/layer_2_packed.jpg") }}
+{{ figure(width=640, path="toolkits/jarkmans_robot_fixing_toolkit/layer_2_packed.jpg") }}
 
 Hello, we're fans of tools and tiny toolkits. This is a curated library of some of the
 [toolkits](https://tinytoolk.it/toolkits/) and [tools](https://tinytoolk.it/tools/) we own, use, or have seen.

@@ -3,6 +3,8 @@ date = "2024-09-09"
 title = "Hanser's Power Kit"
 [taxonomies]
 by = ["Hanser"]
+[extra]
+titleimage = "toolkits/hansers_power_kit/laid_out.jpg"
 +++
 
 My Tiny Power Toolkit utilizes the 18V battery pack of my Einhell Power-X-Change system for multiple purposes where power is needed.
