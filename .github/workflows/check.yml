@@ -1,0 +1,29 @@
+on:
+  - pull_request
+  - workflow_dispatch
+name: Run checks
+jobs:
+  exif:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: check
+        uses: wlcx/exifchecker@v1
+        with:
+          directory: .
+  zola:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+      - name: build
+        uses: shalzz/zola-deploy-action@v0.19.2
+        env:
+          BUILD_ONLY: true
+      - name: check
+        uses: untitaker/hyperlink@0.1.32
+        with:
+          args: public/ --sources content/
