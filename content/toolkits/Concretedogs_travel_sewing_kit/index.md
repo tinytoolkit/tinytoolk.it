@@ -3,6 +3,8 @@ date = "2025-09-01"
 title = "Concretedogs Travel Sewing Kits"
 [taxonomies]
 by = ["Concretedog"]
+[extra]
+titleimage = "toolkits/Concretedogs_travel_sewing_kit/main_rotated.jpg"
 +++
 
 Tiny sewing kits are super useful to carry, I make these small sewn cases which fold in half with a small felt section for pins and needles.
