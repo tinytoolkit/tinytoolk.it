@@ -1,6 +1,6 @@
 +++
 date = "2025-09-01"
-title = "Concretedogs Travel Sewing Kits"
+title = "Concretedog's Travel Sewing Kits"
 [taxonomies]
 by = ["Concretedog"]
 [extra]
@@ -30,12 +30,12 @@ Optionally my original kit has a small piece of cord stitched to the inside whic
 ## Contents
 
 
-- Wonderclips x 6 minimum. <br>
-- A small pair folding scissors<br>
-- Various bits of thread wrapped around carboard scraps to reduce size <br>
-- Various pins and needles <br>
-- Classic SD Swiss Army Knife <br>
-- A small amount of gore tex seam tape, this irons on, for field expedient repair you can use the lighter and the knife blade to patch small holes <br>
+- Wonderclips x 6 minimum
+- A small pair folding scissors
+- Various bits of thread wrapped around carboard scraps to reduce size
+- Various pins and needles
+- Classic SD Swiss Army Knife
+- A small amount of gore tex seam tape, this irons on, for field expedient repair you can use the lighter and the knife blade to patch small holes
 - A small roll of iron on interfacing, again great for field expedient repair of small rips etc.
-- A stitch ripper/Seam Ripper/Quick Unpick tool <br>
-- A collection of buttons. <br>
+- A stitch ripper/Seam Ripper/Quick Unpick tool
+- A collection of buttons.
