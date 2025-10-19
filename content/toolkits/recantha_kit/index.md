@@ -14,7 +14,7 @@ A general purpose kit used for various purposes including a fair amount of stati
 
 {{ figure(width=640, path="toolkits/recantha_kit/TinyTookit_exterior.jpg") }}
 
-[Lihit Lab Large Red Book-Type Pen Case](https://cultpens.com/products/lihit-lab-triple-pen-case?variant=43696392339699), LL00005-MC
+[Lihit Lab Large Maroon Camo Book-Type Pen Case](https://cultpens.com/products/lihit-lab-triple-pen-case?variant=43696392339699), LL00005-MC
 
 ## Contents
 
