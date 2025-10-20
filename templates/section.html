@@ -27,7 +27,7 @@
         <li>
             <a href="{{ page.permalink | safe }}">{{ page.title }}
             {% if page.extra.titleimage %}
-                {% set thumbnail = resize_image(path=page.extra.titleimage, width=200, height=200, op="fit") %}
+                {% set thumbnail = resize_image(path=page.extra.titleimage, width=300, height=300, op="fit") %}
                         <br> <img src={{ thumbnail.url }} />
             {% endif %}
             </a>
