@@ -32,9 +32,9 @@ The internal mesh pocket has a really odd velcro strap that can only attach by g
 
 ### Other Tools
 - [Wera 838 RA S Ratchet Handle](https://tinytoolk.it/tools/wera-838-ra-s/). The Wera set with this handle and bits was rather pricey so I bought some separately.
-	- sourcing map 12 Pcs Phillips Screwdriver Bit Set 1/4" Hex Shank ([Amazon affiliate link](https://amzn.to/4edw4eA))
-	- sourcing map 6pcs Slotted Screwdriver Bit Set ([Amazon affiliate link](https://amzn.to/4kjLoI9))
-	- sourcing map 9pcs Ball End Hex Bits ([Amazon affiliate link](https://amzn.to/4l0Vtuv))
+- sourcing map 12 Pcs Phillips Screwdriver Bit Set 1/4" Hex Shank ([Amazon affiliate link](https://amzn.to/4edw4eA))
+- sourcing map 6pcs Slotted Screwdriver Bit Set ([Amazon affiliate link](https://amzn.to/4kjLoI9))
+- sourcing map 9pcs Ball End Hex Bits ([Amazon affiliate link](https://amzn.to/4l0Vtuv))
 
 - [KNIPEX Super Knips Diagonal Cutter, 125mm (7861125)](https://www.knipex.com/en-uk/products/electronics-pliers/electronic-super-knips/electronic-super-knips/7861125)
 - "ESD-14" Precision Tweezers (it was cheaper to buy a pack of 7 than one, and I put the one labelled ESD-14 in this kit)
