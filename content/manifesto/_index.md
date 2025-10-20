@@ -4,7 +4,7 @@ title = "Tiny Toolkit Manifesto"
 
 0. The tool to hand is more useful than the tool you left at home.
 1. Small is beautiful.
-2. Sometimes a spork is the tool.  
+2. Sometimes a spork is the best tool.  
 3. Every tool is a hammer.
 4. Choose your compromises with care.
 5. Tiny Tools make better gifts than socks.
