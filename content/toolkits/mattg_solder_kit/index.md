@@ -4,6 +4,8 @@ updated = "2025-09-09"
 title = "Matt Gray's Soldering Kit"
 [taxonomies]
 by = ["Matt Gray"]
+[extra]
+titleimage = "toolkits/mattg_solder_kit/mattg_solder_kit.jpg"
 +++
 
 I was somewhere without tools and needed to solder, so ordered some bits next day and used that as an excuse to make a mini soldering kit.
