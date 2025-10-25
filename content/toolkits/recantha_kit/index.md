@@ -1,6 +1,6 @@
 +++
 date = "2025-10-19"
-updated = "2025-10-19"
+updated = "2025-10-25"
 title = "Recantha's Tiny Toolkit"
 [taxonomies]
 by = ["Mike Horne"]
@@ -88,6 +88,8 @@ My first layer is dominated by a fold-up multitool (see below), plus there's a p
 {{ figure(width=640, path="toolkits/recantha_kit/ThirdLayerRightImplements.jpg") }}
 {{ figure(width=640, path="toolkits/recantha_kit/HammerMultitool.jpg") }}
 
-It's quite a heavy kit, because of the multitools, but it's very handy!
+## Weight
+It's quite a heavy kit at 1.9kg, primarily because of the multitools and the adjustable spanners, but it's very handy!
 
-As you can see in my Tiny Tookit, there’s a bit of duplication (especially box cutters!), but not much space left. I intend to expand the kit when I can to include an electrical-size screwdriver, some electrical tape and other stuff I can find as we go along and then get rid of the duplicates to make space.
+## Future
+In this Tiny Toolkit, there’s a bit of duplication (especially box cutters and I certainly don't need two adjustable spanners in there!), but not much space left. I intend to expand the kit when I can to include a set of electronics screwdrivers, some electrical tape and other stuff I can find as we go along and then get rid of the duplicates to make space.
