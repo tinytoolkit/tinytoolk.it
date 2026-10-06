@@ -17,7 +17,7 @@
         overlays = [devshell.overlays.default];
       };
     in {
-      devShells.default = pkgs.devshell.mkShell {packages = with pkgs; [zola];};
+      devShells.default = pkgs.devshell.mkShell {packages = with pkgs; [zola mat2];};
       formatter = pkgs.alejandra;
     });
 }
